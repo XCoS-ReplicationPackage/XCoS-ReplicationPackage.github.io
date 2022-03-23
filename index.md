@@ -9,7 +9,7 @@ we conduct a series of experiments to evaluate the quality of the key steps of X
 ## RQ1 Quality of Key Steps
 We respectively sample 384, 384 and 50 instances to evaluate the quality of **concept identification** and **concept linking for description**, and **concept linking for code**.
 
-The sampled and annotated data can be found in the file [rq1-final]().
+The sampled and annotated data can be found in the files: [rq1-concepts](./rq1-concepts.txt), [rq1-description_linkings](./rq1-description_linkings.txt), and [rq1-code_linkings](./rq1-code_linkings.txt).
 
 ## RQ2 Effectiveness for Generating Explanations
 We ask 6 participants to evaluate the generated explanations on 10 tasks in terms of completeness, conciseness, and readability on a 4-points Likert scale (1-disagree; 2-somewhat disagree; 3-somewhat agree; 4-agree) by the following statements.
@@ -23,4 +23,4 @@ The tasks and results can be found in Table 2 in our paper.
 We divide the tasks into two roughly equivalent group TA (Task1, Task3, Task5, Task7, and Task9) and TB (Task2, Task4, Task6, Task8, and Task10). In each group, the number of tasks in easy, medium, hard level are 2, 2, 1 respectively.
 We divide 14 participants into two “equivalent” groups GA (A1-A7) and GB (B1-B7) and each group with 2 beginner, 3 intermediate, and 2 advanced.
 
-The evaluation results can be found in the file [rq3-final](./rq3-final.xlsx).
+The evaluation results can be found in the file: [rq3-final](./rq3-final.xlsx).
