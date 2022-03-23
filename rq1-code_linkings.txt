@@ -1,0 +1,338 @@
+####################################################################################################
+@Override public int getBrightness(){  Response response=execute("selendroid-getBrightness");  Number value=(Number)response.getValue();  return value.intValue();}
+brightness: Brightness | True
+response: Response time (technology) | False
+
+####################################################################################################
+public static byte[] encode(String str){  CharsetEncoder encoder=Charsets.UTF_8.newEncoder();  try {    ByteBuffer out=encoder.encode(CharBuffer.wrap(str));    byte[] bytes=new byte[out.limit()];    out.get(bytes);    return bytes;  } catch (  CharacterCodingException ex) {    throw new IllegalArgumentException(ex);  }}
+charset: Character encoding | True
+utf 8: UTF-8 | True
+
+####################################################################################################
+protected void setCurrentUserLedImage(final BufferedImage CURRENT_USER_LED_IMAGE){  if (currentUserLedImage != null) {    currentUserLedImage.flush();  }  currentUserLedImage=CURRENT_USER_LED_IMAGE;  repaint(getInnerBounds());}
+image: Image | True
+lead: Optical disc authoring | False
+bound: Comb binding | False
+
+####################################################################################################
+@Override public void readExternal(ObjectInput in) throws IOException, ClassNotFoundException {  byte header=in.readByte();switch ((header & 0xFF) >> 4) {case FALLBACK_TIMEZONE_TYPE:    this.obj=this.readFallback(in,header);  break;case TRANSITION_RESOLVER_TYPE:this.obj=this.readStrategy(header);break;case HISTORIZED_TIMEZONE_TYPE:this.obj=this.readZone(in,header);break;case ZONAL_OFFSET_TYPE:this.obj=this.readOffset(in,header);break;default :throw new StreamCorruptedException("Unknown serialized type.");}}
+input: Input (computer science) | True
+offset: Offset (computer science) | True
+zone: Zone bit recording | False
+strategy: Strategy pattern | False
+
+####################################################################################################
+public static BigDecimal multiply(BigDecimal x,BigDecimal y){  return x.multiply(y,defaultMathContext);}
+default: Default (computer science) | True
+context: Context (computing) | True
+decimal: Decimal | True
+math: Mathematics | True
+
+####################################################################################################
+@Override protected void initContent(){  getJsp().getRequest().setAttribute(SESSION_WORKPLACE_CLASS,this);  String content=getParamContent();  if (CmsStringUtil.isNotEmpty(content)) {    setParamContent(decodeContent(content));    return;  } else {    content="";  }  try {    checkLock(getParamResource());    CmsFile editFile=getCms().readFile(getParamResource(),CmsResourceFilter.ALL);    content=CmsEncoder.createString(editFile.getContents(),getFileEncoding());  } catch (  CmsException e) {    try {      showErrorPage(this,e);    } catch (    JspException exc) {      if (LOG.isInfoEnabled()) {        LOG.info(exc);      }    }  }  setParamContent(content);}
+lock: Lock (computer science) | True
+param: Parameter (computer programming) | True
+page: Memory paging | False
+session: Session (computer science) | True
+attribute: Attribute (computing) | True
+request: POST (HTTP) | False
+workplace: Workplace Shell | False
+
+####################################################################################################
+private static Set<LexiconEntry> getLexiconEntriesFromParses(Collection<CcgParse> parses){  Set<LexiconEntry> candidateEntries=Sets.newHashSet();  for (  CcgParse correctMaxParse : parses) {    for (    LexiconEntryInfo info : correctMaxParse.getSpannedLexiconEntries()) {      CcgCategory category=info.getCategory();      Object trigger=info.getLexiconTrigger();      List<String> words=(List<String>)trigger;      candidateEntries.add(new LexiconEntry(words,category));    }  }  return candidateEntries;}
+category: Grammatical category | False
+word: Word | True
+hash: Hash function | True
+collection: Collection (abstract data type) | True
+lexicon: Vocabulary | True
+parse: Parser (programming language) | False
+
+####################################################################################################
+public static Object calculateGuess(JCExpression expr){  if (expr instanceof JCLiteral) {    JCLiteral lit=(JCLiteral)expr;    if (lit.getKind() == com.sun.source.tree.Tree.Kind.BOOLEAN_LITERAL) {      return ((Number)lit.value).intValue() == 0 ? false : true;    }    return lit.value;  }  if (expr instanceof JCIdent || expr instanceof JCFieldAccess) {    String x=expr.toString();    if (x.endsWith(".class"))     return new ClassLiteral(x.substring(0,x.length() - 6));    int idx=x.lastIndexOf('.');    if (idx > -1)     x=x.substring(idx + 1);    return new FieldSelect(x);  }  return null;}
+tree: Tree (data structure) | True
+expression: Expression (computer science) | True
+kind: Kind (type theory) | True
+sun: Sun Microsystems | True
+guess: Guess (clothing) | False
+light: Light cone | False
+
+####################################################################################################
+@Override public void sendNotification(String uniqueIdentifier,SPFActionSendNotification action){  Utils.logCall(TAG,"sendNotification",uniqueIdentifier,action);  NotificationMessage message=new NotificationMessage(uniqueIdentifier,action.getTitle(),action.getMessage());  mSpf.getNotificationManager().onNotificationMessageReceived(message);}
+spf: Sender Policy Framework | True
+title: Global title | False
+notification: Notification system | True
+
+####################################################################################################
+public void marshall(PutEventsRequestEntry putEventsRequestEntry,ProtocolMarshaller protocolMarshaller){  if (putEventsRequestEntry == null) {    throw new SdkClientException("Invalid argument passed to marshall(...)");  }  try {    protocolMarshaller.marshall(putEventsRequestEntry.getTime(),TIME_BINDING);    protocolMarshaller.marshall(putEventsRequestEntry.getSource(),SOURCE_BINDING);    protocolMarshaller.marshall(putEventsRequestEntry.getResources(),RESOURCES_BINDING);    protocolMarshaller.marshall(putEventsRequestEntry.getDetailType(),DETAILTYPE_BINDING);    protocolMarshaller.marshall(putEventsRequestEntry.getDetail(),DETAIL_BINDING);  } catch (  Exception e) {    throw new SdkClientException("Unable to marshall request to JSON: " + e.getMessage(),e);  }}
+event: Event (computing) | True
+
+####################################################################################################
+public static <T>T initElements(WebDriver driver,Class<T> pageClassToProxy){  T page=instantiatePage(driver,pageClassToProxy);  initElements(driver,page);  return page;}
+page: Page (computer memory) | False
+proxy: Proxy server | True
+
+####################################################################################################
+protected void init(peer_info p){  client=Vectors.byte_vector2utf8(p.get_client());  totalDownload=p.getTotal_download();  totalUpload=p.getTotal_upload();  flags=p.get_flags();  source=p.get_source();  upSpeed=p.getUp_speed();  downSpeed=p.getDown_speed();  connectionType=ConnectionType.fromSwig(p.getConnection_type());  progress=p.getProgress();  progressPpm=p.getProgress_ppm();  ip=new TcpEndpoint(p.getIp()).toString();}
+download: Download | True
+upload: Upload | True
+utf8: UTF-8 | True
+ppm: Prediction by partial matching | True
+client: Client (computing) | True
+up speed: Speedup | True
+swig: SWIG | True
+
+####################################################################################################
+long getLong(final long off) throws IOException, InterruptedException {  if (off < 0 || off > zipFileSlice.len - 8) {    throw new IndexOutOfBoundsException();  }  if (read(off,scratch,0,8) < 8) {    throw new EOFException("Unexpected EOF");  }  return ((scratch[7] & 0xffL) << 56) | ((scratch[6] & 0xffL) << 48) | ((scratch[5] & 0xffL) << 40)| ((scratch[4] & 0xffL) << 32)| ((scratch[3] & 0xffL) << 24)| ((scratch[2] & 0xffL) << 16)| ((scratch[1] & 0xffL) << 8)| (scratch[0] & 0xffL);}
+zip file: ZIP (file format) | True
+eof: End-of-file | True
+scratch: Scratch (programming language) | False
+slice: Bit slicing | False
+
+####################################################################################################
+public CompletableFuture<Void> process(Operation operation){  CompletableFuture<Void> result=new CompletableFuture<>();  if (!isRunning()) {    result.completeExceptionally(new IllegalContainerStateException("OperationProcessor is not running."));  } else {    log.debug("{}: process {}.",this.traceObjectId,operation);    try {      this.operationQueue.add(new CompletableOperation(operation,result));    } catch (    Throwable e) {      if (Exceptions.mustRethrow(e)) {        throw e;      }      result.completeExceptionally(e);    }  }  return result;}
+future: Futures and promises | True
+process: Process (computing) | True
+operation: Command (computing) | True
+queue: Queue (abstract data type) | True
+result: Result | True
+comp: Computer science | False
+
+####################################################################################################
+public JSONObject instantiateJsonObject(InputStream in) throws IOException, JSONException {  BufferedReader reader=new BufferedReader(new InputStreamReader(in));  StringBuffer contents=new StringBuffer();  String text=null;  while ((text=reader.readLine()) != null) {    contents.append(text).append(System.getProperty("line.separator"));  }  in.close();  JSONObject json=new JSONObject(contents.toString());  return json;}
+text: Plain text | True
+json: JSON | True
+input stream: Stream (computing) | True
+
+####################################################################################################
+private static double deltaLat(double deltaPixel,double lat,byte zoom,int tileSize){  long mapSize=MercatorProjection.getMapSize(zoom,tileSize);  double pixelY=MercatorProjection.latitudeToPixelY(lat,mapSize);  double lat2=MercatorProjection.pixelYToLatitude(pixelY + deltaPixel,mapSize);  return Math.abs(lat2 - lat);}
+mercator projection: Mercator projection | True
+delta: ΔT | False
+abs: Absolute value | True
+pixel y: Pixel | True
+tile: Tile | True
+math: Mathematics | True
+zoom: Digital zoom | True
+latitude: Geographic coordinate system | True
+lat: Geographic coordinate system | True
+
+####################################################################################################
+public Map<String,String> values(Object context){  if (this.attributes.isEmpty()) {    return Collections.emptyMap();  }  Map<String,String> map=new HashMap<String,String>();  for (  KAttribute attribute : this.attributes) {    String value=attribute.value(context);    if (value != null) {      map.put(attribute.getName(),value);    }  }  return map;}
+attribute: Attribute (computing) | True
+collection: Container (abstract data type) | True
+context: Context (computing) | True
+
+####################################################################################################
+public static FieldAnalyzer findAnalyzer(FieldDefinition fieldDef){  Utils.require(fieldDef.isScalarField(),"Must be a scalar field: %s",fieldDef);  String analyzerName=fieldDef.getAnalyzerName();  Utils.require(analyzerName != null,"Scalar field has no analyzer: %s",fieldDef);  return findAnalyzer(analyzerName);}
+scalar field: Scalar field | True
+definition: Definition | True
+
+####################################################################################################
+public static <A,B>Codec<Map<A,B>,EnumGene<Integer>> ofMapping(final ISeq<? extends A> source,final ISeq<? extends B> target){  return ofMapping(source,target,HashMap::new);}
+hash map: Hash table | True
+mapping: Data mapping | True
+
+####################################################################################################
+public synchronized SelectionCriteria getSelectionCriteria(){  if (TraceComponent.isAnyTracingEnabled() && tc.isEntryEnabled())   SibTr.entry(this,tc,"getSelectionCriteria");  checkReleased();  SelectorDomain selectorDomain=SelectorDomain.getSelectorDomain(getShort());  if (TraceComponent.isAnyTracingEnabled() && tc.isDebugEnabled())   SibTr.debug(tc,"Selector domain",selectorDomain);  String discriminator=getString();  if (TraceComponent.isAnyTracingEnabled() && tc.isDebugEnabled())   SibTr.debug(tc,"Discriminator:",discriminator);  String selector=getString();  if (TraceComponent.isAnyTracingEnabled() && tc.isDebugEnabled())   SibTr.debug(tc,"Selector:",selector);  SelectionCriteria selectionCriteria=CommsClientServiceFacade.getSelectionCriteriaFactory().createSelectionCriteria(discriminator,selector,selectorDomain);  if (TraceComponent.isAnyTracingEnabled() && tc.isEntryEnabled())   SibTr.exit(this,tc,"getSelectionCriteria");  return selectionCriteria;}
+debug: Debugging | True
+selection: Selection (user interface) | False
+domain: Domain (software engineering) | False
+client: Client (computing) | True
+comms: Data transmission | True
+facade: Facade pattern | True
+criterion: Bayesian information criterion | False
+
+####################################################################################################
+public void writeClosePortal(String portal){  ensureBuffer();  int pos=out.writerIndex();  out.writeByte(CLOSE);  out.writeInt(0);  out.writeByte('P');  Util.writeCStringUTF8(out,portal);  out.setInt(pos + 1,out.writerIndex() - pos - 1);}
+utf8: UTF-8 | True
+c string: C string handling | False
+portal: Portal rendering | False
+
+####################################################################################################
+public static void addInt(int value,int count,int startPos,int[] dest){  assert(count <= 32);  assert(count > 0);  assert(startPos >= 0);  int currentIndex=startPos / 32;  int currentOffset=startPos % 32;  int totalSize=count + currentOffset;  if (totalSize > 32) {    int secondIndex=currentIndex + 1;    int secondSize=totalSize - 32;    int secondValue=value << (32 - secondSize);    int lowerMask=-1 >>> secondSize;    int temp=dest[secondIndex] & lowerMask;    dest[secondIndex]=temp | secondValue;    totalSize=32;    value=value >>> secondSize;  }  if (totalSize <= 32) {    int upperMask=-2 << (31 - currentOffset);    int lowerMask=0x7FFFFFFF >>> (totalSize - 1);    int destMask=upperMask | lowerMask;    int temp=dest[currentIndex] & destMask;    destMask=~destMask;    value=value << (32 - totalSize);    value=value & destMask;    dest[currentIndex]=temp | value;  }}
+d mask: Mask (computing) | True
+offset: Offset (computer science) | True
+
+####################################################################################################
+private <T extends Assignable>ExtensionWrapper loadExtensionMapping(Class<T> extensionClass){  final InputStream extensionStream=findExtensionImpl(extensionClass);  ExtensionWrapper extensionWrapper=loadExtensionWrapper(extensionStream,extensionClass);  this.extensionMappings.put(extensionClass,extensionWrapper);  return extensionWrapper;}
+input stream: Stream (computing) | True
+mapping: Data mapping | True
+extension: Browser extension | False
+
+####################################################################################################
+@Override public RemoteCallReturn invokeSoapCall(SoapCall<BindingProvider> soapCall){  BindingProvider webService=soapCall.getSoapClient();  RemoteCallReturn.Builder builder=new RemoteCallReturn.Builder();synchronized (webService) {    Object result=null;    try {      result=invoke(soapCall);    } catch (    InvocationTargetException e) {      builder.withException(e.getTargetException());    }catch (    Exception e) {      builder.withException(e);    } finally {      JaxWsSoapContextHandler contextHandler=getContextHandlerFromClient(webService);      String url=getEndpointAddress(webService);      builder.withRequestInfo(contextHandler.getLastRequestInfoBuilder().withUrl(url).build());      builder.withResponseInfo(contextHandler.getLastResponseInfoBuilder().build());    }    return builder.withReturnValue(result).build();  }}
+with return value: Return statement | False
+with exception: Exception handling | True
+soap: SOAP | True
+web service: Web service | True
+with url: URL | True
+address: Address space | True
+result: Result | True
+endpoint: Endpoint interface | True
+client: Client (computing) | True
+request: Request–response | True
+response: Request–response | True
+
+####################################################################################################
+public AwsSecurityFindingFilters withNetworkSourcePort(NumberFilter... networkSourcePort){  if (this.networkSourcePort == null) {    setNetworkSourcePort(new java.util.ArrayList<NumberFilter>(networkSourcePort.length));  }  for (  NumberFilter ele : networkSourcePort) {    this.networkSourcePort.add(ele);  }  return this;}
+network: Computer network | True
+port: Port (computer networking) | True
+
+####################################################################################################
+@Override protected boolean prepare(final Context2D context,final Attributes attr,final double alpha){  final double ord=attr.getOuterRadius();  final double ird=attr.getInnerRadius();  if ((ord > 0) && (ird > 0) && (ord > ird)) {    context.beginPath();    context.arc(0,0,ord,0,Math.PI * 2,false);    context.arc(0,0,ird,0,Math.PI * 2,true);    context.closePath();    return true;  }  return false;}
+arc: Automatic Reference Counting | False
+context: Context (computing) | True
+attribute: Attribute (computing) | True
+path: Path (computing) | True
+radius: Radius | True
+math: Mathematics | True
+
+####################################################################################################
+@Sensitive @Trivial public static String digest(@Sensitive String input){  if (input == null || input.isEmpty())   return null;  return digest(input,DEFAULT_ALGORITHM,DEFAULT_CHARSET);}
+charset: Character encoding | True
+default: Default (computer science) | True
+input: Input (computer science) | True
+digest: Cryptographic hash function | True
+
+####################################################################################################
+@Override public void createCheckpointData(CheckpointDataKey key,CheckpointData value){  logger.entering(CLASSNAME,"createCheckpointData",new Object[]{key,value});  insertCheckpointData(key.getCommaSeparatedKey(),value);  logger.exiting(CLASSNAME,"createCheckpointData");}
+datum: Data | True
+comma: Radix point | True
+
+####################################################################################################
+@Override public EClass getIfcCoveringType(){  if (ifcCoveringTypeEClass == null) {    ifcCoveringTypeEClass=(EClass)EPackage.Registry.INSTANCE.getEPackage(Ifc4Package.eNS_URI).getEClassifiers().get(153);  }  return ifcCoveringTypeEClass;}
+uri: Uniform Resource Identifier | True
+
+####################################################################################################
+private static Stream<FedoraResource> getAllChildren(final FedoraResource resource){  return concat(of(resource),resource.getChildren().flatMap(FedoraResourceImpl::getAllChildren));}
+fedora: Fedora (operating system) | True
+
+####################################################################################################
+public RefreshInterval setRefreshInterval(Duration refreshInterval){  RefreshInterval property=(refreshInterval == null) ? null : new RefreshInterval(refreshInterval);  setRefreshInterval(property);  return property;}
+duration: Duration (project management) | False
+property: Attribute (computing) | True
+interval: Interval (mathematics) | True
+
+####################################################################################################
+public static <E,F extends E>Set<F> setFilter(Iterable<? extends E> elements,Class<F> clazz){  return collectionFilter(new LinkedHashSet<F>(),elements,clazz);}
+collection: Collection (abstract data type) | True
+
+####################################################################################################
+public Expression<T> as(String alias){  return as(ExpressionUtils.path(getType(),alias));}
+alias: Alias (command) | False
+path: Path (computing) | True
+expression: Expression (computer science) | True
+
+####################################################################################################
+public SchemaBuilder mapper(String field,MapperBuilder<?,?> mapper){  mapperBuilders.put(field,mapper);  return this;}
+field: Attribute (computing) | True
+
+####################################################################################################
+public void log(Marker marker,String fqcn,int level,String message,Object[] argArray,Throwable t){  setMDCMarker(marker);switch (level) {case (TRACE_INT):    if (m_delegate.isTraceEnabled()) {      FormattingTuple tuple=MessageFormatter.arrayFormat(message,argArray);      m_delegate.trace(tuple.getMessage(),t,fqcn);    }  break;case (DEBUG_INT):if (m_delegate.isDebugEnabled()) {  FormattingTuple tuple=MessageFormatter.arrayFormat(message,argArray);  m_delegate.debug(tuple.getMessage(),t,fqcn);}break;case (INFO_INT):if (m_delegate.isInfoEnabled()) {FormattingTuple tuple=MessageFormatter.arrayFormat(message,argArray);m_delegate.inform(tuple.getMessage(),t,fqcn);}break;case (WARN_INT):if (m_delegate.isWarnEnabled()) {FormattingTuple tuple=MessageFormatter.arrayFormat(message,argArray);m_delegate.warn(tuple.getMessage(),t,fqcn);}break;case (ERROR_INT):if (m_delegate.isErrorEnabled()) {FormattingTuple tuple=MessageFormatter.arrayFormat(message,argArray);m_delegate.error(tuple.getMessage(),t,fqcn);}break;default :break;}resetMDCMarker();}
+format: Format (command) | False
+debug: Debugging | True
+delegate: Delegate (CLI) | True
+tuple: Product type | False
+arg: Parameter (computer programming) | True
+
+####################################################################################################
+public static Image newImage(AbstractImagePrototype image,String... styles){  return setStyleNames(image.createImage(),styles);}
+image: Image | True
+
+####################################################################################################
+public static void setDevelopmentMode(boolean enable){  if (TraceComponent.isAnyTracingEnabled() && ejbTc.isDebugEnabled())   Tr.debug(ejbTc,"setDevelopmentMode : " + enable);  svDevelopmentMode=enable;}
+development: Programming tool | False
+debug: Debugging | True
+
+####################################################################################################
+public boolean hasPrincipalsInOtherOus(){  if (m_hasPrincipalsInOtherOus == null) {    m_hasPrincipalsInOtherOus=Boolean.FALSE;    try {      Iterator<CmsPrincipal> itPrincipals=getPrincipals(true).iterator();      while (itPrincipals.hasNext()) {        CmsPrincipal principal=itPrincipals.next();        if (!principal.getOuFqn().equals(getCms().getRequestContext().getCurrentUser().getOuFqn())) {          m_hasPrincipalsInOtherOus=Boolean.TRUE;          break;        }      }    } catch (    Exception e) {    }  }  return m_hasPrincipalsInOtherOus.booleanValue();}
+boolean value: Boolean data type | True
+context: Context (computing) | True
+fqn: Fully qualified name | True
+cms: Cryptographic Message Syntax | True
+request: Certificate signing request | False
+principal: Dirichlet character | False
+
+####################################################################################################
+@Override protected void doProcess(ITemplateContext context,IProcessableElementTag tag,AttributeName attributeName,String attributeValue,IElementTagStructureHandler structureHandler){  final String name=attributeName.getAttributeName();  final ExceptionMessageBuilder br=new ExceptionMessageBuilder();  br.addNotice("Mistaking prefix for the Lasta Thymeleaf name.");  br.addItem("Advice");  br.addElement("Use formal prefix for Lasta Thymeleaf 'la:' like this:");  br.addElement("  (x):");  br.addElement("    th:" + name + "=\"...\" // *Bad");  br.addElement("  (o):");  br.addElement("    la:" + name + "=\"...\" // Good");  br.addItem("Template File");  br.addElement(tag.getTemplateName());  br.addItem("Tag Name");  br.addElement(tag.getElementDefinition());  br.addItem("Attribute on Tag");  br.addElement(attributeName + "=\"" + tag.getAttributeValue(attributeName)+ "\"");  final String msg=br.buildExceptionMessage();  throw new IllegalStateException(msg);}
+do process: Process (computing) | True
+context: Context (computing) | True
+template: Template processor | False
+advice: Advice (programming) | False
+element definition: Data element definition | True
+
+####################################################################################################
+@ActionMapping(params={"action=delete"}) public void unFavoriteNode(@RequestParam("nodeId") String nodeId,ActionResponse response){  try {    HttpServletRequest servletRequest=this.portalRequestUtils.getCurrentPortalRequest();    IUserInstance userInstance=this.userInstanceManager.getUserInstance(servletRequest);    IUserPreferencesManager preferencesManager=userInstance.getPreferencesManager();    IUserLayoutManager layoutManager=preferencesManager.getUserLayoutManager();    IUserLayoutNodeDescription nodeDescription=layoutManager.getNode(nodeId);    String userFacingNodeName=nodeDescription.getName();    response.setRenderParameter("nameOfFavoriteActedUpon",userFacingNodeName);    if (nodeDescription.isDeleteAllowed()) {      boolean nodeSuccessfullyDeleted=layoutManager.deleteNode(nodeId);      if (nodeSuccessfullyDeleted) {        layoutManager.saveUserLayout();        response.setRenderParameter("successMessageCode","favorites.unfavorite.success.parameterized");        IUserLayout updatedLayout=layoutManager.getUserLayout();        if (!favoritesUtils.hasAnyFavorites(updatedLayout)) {          response.setPortletMode(PortletMode.VIEW);        }        logger.debug("Successfully unfavorited [{}]",nodeDescription);      } else {        logger.error("Failed to delete node [{}] on unfavorite request, but this should have succeeded?",nodeDescription);        response.setRenderParameter("errorMessageCode","favorites.unfavorite.fail.parameterized");      }    } else {      logger.warn("Attempt to unfavorite [{}] failed because user lacks permission to delete that layout node.",nodeDescription);      response.setRenderParameter("errorMessageCode","favorites.unfavorite.fail.lack.permission.parameterized");    }  } catch (  Exception e) {    logger.error("Something went wrong unfavoriting nodeId [{}].",nodeId);    final String fallbackUserFacingNodeName="node with id " + nodeId;    response.setRenderParameter("errorMessageCode","favorites.unfavorite.fail.parameterized");    response.setRenderParameter("nameOfFavoriteActedUpon",fallbackUserFacingNodeName);  }  response.setRenderParameter("action","list");}
+http: Hypertext Transfer Protocol | True
+portlet: Java Portlet Specification | True
+request: Hypertext Transfer Protocol | True
+portal: Web portal | True
+layout: Layout (computing) | True
+node: Node (computer science) | True
+face: Web typography | False
+response: Response time (technology) | False
+
+####################################################################################################
+public static CPDefinition[] findByCompanyId_PrevAndNext(long CPDefinitionId,long companyId,OrderByComparator<CPDefinition> orderByComparator) throws com.liferay.commerce.product.exception.NoSuchCPDefinitionException {  return getPersistence().findByCompanyId_PrevAndNext(CPDefinitionId,companyId,orderByComparator);}
+persistence: Persistence of a number | False
+company i: Software company | False
+
+####################################################################################################
+protected void appendParameters(StringBuilder buffer,String parameters){  if ((parameters != null) && (parameters.length() > 0)) {    String updatedParameters=parameters;    if (parameters.startsWith("?")) {      updatedParameters=parameters.substring(1);    }    if (updatedParameters.length() > 0) {      int currentLength=buffer.length();      if ((currentLength > 0) && (buffer.charAt(currentLength - 1) == '/')) {        int length=currentLength;        buffer.delete(length - 1,length);      }      buffer.append("?");      try {        String[] parameterPairs=updatedParameters.split("&");        int amount=parameterPairs.length;        String parameterPair=null;        String[] values=null;        boolean addedParameters=false;        for (int index=0; index < amount; index++) {          parameterPair=parameterPairs[index];          values=parameterPair.split("=");          if (values.length == 2) {            if (addedParameters) {              buffer.append("&");            }            buffer.append(URLEncoder.encode(values[0],"UTF-8"));            buffer.append("=");            buffer.append(URLEncoder.encode(values[1],"UTF-8"));            addedParameters=true;          }        }      } catch (      Exception exception) {        throw new FaxException("Unable to encode parameters.",exception);      }    }  }}
+pair: Product type | True
+amount: Quantity | True
+
+####################################################################################################
+static void openURL(URL url){  if (Desktop.isDesktopSupported() && Desktop.getDesktop().isSupported(Desktop.Action.BROWSE)) {    try {      Desktop.getDesktop().browse(url.toURI());    } catch (    Exception ex) {      Tools.showError(ex);    }  } else   if (SystemUtils.IS_OS_LINUX) {    try {      Runtime.getRuntime().exec(new String[]{"xdg-open",url.toString()});    } catch (    Exception ex) {      Tools.showError(ex);    }  }}
+exec: Exec (Amiga) | False
+linux: Linux kernel | True
+tool: Programming tool | False
+open url: OpenURL | False
+
+####################################################################################################
+private void removeChannel(String channelName){  if (TraceComponent.isAnyTracingEnabled() && tc.isEntryEnabled())   SibTr.entry(tc,"removeChannel",channelName);  ChannelFramework cfw=CommsClientServiceFacade.getChannelFramewrok();  try {    if (cfw.getChannel(channelName) != null)     cfw.removeChannel(channelName);  } catch (  ChannelException e) {    if (TraceComponent.isAnyTracingEnabled() && tc.isDebugEnabled()) {      SibTr.debug(this,tc,"Error removing channel " + channelName,e);    }  }catch (  ChainException e) {    if (TraceComponent.isAnyTracingEnabled() && tc.isDebugEnabled()) {      SibTr.debug(this,tc,"Error removing channel " + channelName,e);    }  } finally {    if (TraceComponent.isAnyTracingEnabled() && tc.isEntryEnabled())     SibTr.exit(tc,"removeChannel");  }}
+debug: Debugging | True
+channel: Security Support Provider Interface | False
+framework: Software framework | False
+comms: Data transmission | False
+client: Client (computing) | True
+facade: Facade pattern | True
+
+####################################################################################################
+public Cursor query(BoundingBox boundingBox,Projection projection){  BoundingBox featureBoundingBox=getFeatureBoundingBox(boundingBox,projection);  Cursor cursor=query(featureBoundingBox);  return cursor;}
+projection: Projection (set theory) | False
+bounding box: Minimum bounding box | True
+feature: Feature (computer vision) | False
+
+####################################################################################################
+public static MozuUrl updateAccountCardUrl(Integer accountId,String cardId,String responseFields){  UrlFormatter formatter=new UrlFormatter("/api/commerce/customer/accounts/{accountId}/cards/{cardId}?responseFields={responseFields}");  formatter.formatUrl("accountId",accountId);  formatter.formatUrl("cardId",cardId);  formatter.formatUrl("responseFields",responseFields);  return new MozuUrl(formatter.getResourceUrl(),MozuUrl.UrlLocation.TENANT_POD);}
+field: Field (computer science) | True
+pod: Passive data structure | False
+card: Information card | False
+url: URL | True
+account: User (computing) | True
+location: HTTP location | True
+response: Mean and predicted response | False
+
+####################################################################################################
+public static int findFirstNonCellNamePosition(String input,int startPosition){  char c;  for (int i=startPosition; i < input.length(); i++) {    c=input.charAt(i);    if (c != '$' && !Character.isLetterOrDigit(c)) {      return i;    }  }  return -1;}
+position: Position (geometry) | True
+input: Input (computer science) | True
+digit: Numerical digit | True
+cell: Cell (microprocessor) | False
+
+####################################################################################################
+public ExtendedSwidProcessor setReleaseDate(final Date releaseDate){  swidTag.setReleaseDate(new DateTime(JAXBUtils.convertDateToXMLGregorianCalendar(releaseDate),idGenerator.nextId()));  return this;}
+xml: XML | True
+gregorian calendar: Gregorian calendar | True
+
+####################################################################################################
+public List<Polygon> polygons(){  List<List<List<Point>>> coordinates=coordinates();  List<Polygon> polygons=new ArrayList<>(coordinates.size());  for (  List<List<Point>> points : coordinates) {    polygons.add(Polygon.fromLngLats(points));  }  return polygons;}
+polygon: Polygon | True
+point: Point (geometry) | True
+coordinate: Basis (linear algebra) | False
+lat: Geographic coordinate system | True
+
+####################################################################################################
+public Map<String,DapAttribute> getAttributes(){  if (attributes == null)   attributes=new HashMap<String,DapAttribute>();  return attributes;}
+attribute: Attribute (computing) | True
+

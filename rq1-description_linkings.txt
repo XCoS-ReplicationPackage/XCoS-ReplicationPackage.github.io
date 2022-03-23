@@ -1,0 +1,2693 @@
+################################################################################
+title: List of free and open-source software packages
+description: However, nearly all software meeting The Free Software Definition also meets The Open Source Definition and vice versa.
+linkings:
+open source definition: The Open Source Definition | True
+free software definition: The Free Software Definition | True
+
+################################################################################
+title: Unknot
+description: Intuitively, the unknot is a closed loop of rope without a Knot (mathematics) tied into it.
+linkings:
+knot: Knot (mathematics) | True
+unknot: Unknot | True
+
+################################################################################
+title: GlassFish Metro
+description: Components of metro include JAXB RI, JAX-WS RI, SAAJ RI, StAX (SJSXP implementation) and WSIT.
+linkings:
+st ax: StAX | True
+metro: GlassFish Metro | True
+
+################################################################################
+title: Table (information)
+description: A table is an arrangement of Data in rows and columns, or possibly in a more complex structure.
+linkings:
+table: Table (information) | True
+
+################################################################################
+title: Call-tracking software
+description: Call tracking is a method of performance review for advertising and/or staff.
+linkings:
+call tracking: Call-tracking software | True
+
+################################################################################
+title: Radio button
+description: This unselected state cannot be restored by interacting with the radio button widget, though this unselected state may be possible through other user interface elements.
+linkings:
+radio button: Radio button | True
+
+################################################################################
+title: Structure editor
+description: For example, language sensitivity in Emacs is implemented in Lisp (programming language) definition of the edit mode for the given language.
+linkings:
+emacs: Emacs | True
+programming language: Programming language | True
+lisp: Lisp (programming language) | True
+
+################################################################################
+title: Leiningen (software)
+description: Leiningen was created by Phil Hagelberg.
+linkings:
+leiningen: Leiningen (software) | True
+
+################################################################################
+title: Structured content
+description: XML is a common storage format, but structured content can also be stored in other standard or proprietary formats.
+linkings:
+xml: XML | True
+structured content: Structured content | True
+
+################################################################################
+title: Parasitic element (electrical networks)
+description: Designers sometimes take advantage of parasitic effects to achieve a desired function in a component, see for instance helical resonator or Analog delay line.
+linkings:
+component: Electronic component | True
+function: Function (engineering) | True
+analog delay line: Analog delay line | True
+
+################################################################################
+title: ChampionChip
+description: ChampionChip is one manufacturer's implementation of transponder timing.
+linkings:
+champion chip: ChampionChip | True
+
+################################################################################
+title: Dijkstra–Scholten algorithm
+description: Such a process graph may arise when the computation is strictly a divide-and-conquer type.
+linkings:
+computation: Computation | True
+
+################################################################################
+title: Debits and credits
+description: For a particular account, one of these will be the normal balance type and will be reported as a positive number, while a negative balance will indicate an abnormal situation, as when a bank account is overdrawn.
+linkings:
+balance: Balance (accounting) | True
+account: Account (bookkeeping) | True
+
+################################################################################
+title: THINK C
+description: Think C (stylized as THINK C; formerly Lightspeed C) is an extension of the programming language C (programming language) from the American National Standards Institute (ANSI C) for Classic Mac OS developed by Think Technologies, released first in mid-1986.
+linkings:
+extension: Extension (Mac OS) | True
+lightspeed c: THINK C | True
+classic mac os: Classic Mac OS | True
+think c: THINK C | True
+think technologies: THINK C | True
+programming language c: C (programming language) | True
+
+################################################################################
+title: Color suite
+description: A color suite (also called a color bay, telecine suite, or color correction bay) is Control room for color grading video in a Post-production environment.
+linkings:
+color suite: Color suite | True
+color: Color suite | True
+suite: Color suite | True
+bay: Color suite | True
+
+################################################################################
+title: Alpha max plus beta min algorithm
+description: The algorithm avoids performing the square and square-root operations, instead using simple operations such as comparison, multiplication, and addition.
+linkings:
+operation: Algebraic operation | True
+square root: Square root | True
+algorithm: Algorithm (C++) | False
+
+################################################################################
+title: Circular-arc graph
+description: In Graph theory, a circular-arc graph is Intersection graph of a set of arcs on the circle.
+linkings:
+circular arc graph: Circular-arc graph | True
+set: Semigroup action | False
+arc: Directed graph | False
+graph theory: Graph theory | True
+intersection graph: Intersection graph | True
+
+################################################################################
+title: Macintosh Quadra 950
+description: Macintosh Quadra 950 was replaced by PowerPC-based Power Macintosh 9500 in May 1995, with sales continuing until October.
+linkings:
+macintosh quadra: Macintosh Quadra | True
+
+################################################################################
+title: Freediving
+description: Examples of freediving activities are traditional fishing techniques, competitive and non-competitive freediving, competitive and non-competitive spearfishing and freediving photography, synchronised swimming, underwater football, underwater rugby, underwater hockey, underwater target shooting and snorkeling.
+linkings:
+freediving: Freediving | True
+freedive: Freediving | True
+
+################################################################################
+title: Limited availability
+description: In a switched-circuit network, devices known as switches are used to connect Calling party to Called party.
+linkings:
+party: Calling party | True
+
+################################################################################
+title: Automatic image annotation
+description: Automatic image annotation (also known as automatic image tagging or linguistic indexing) is the process by which a computer system automatically assigns Metadata in the form of captioning or Index terms to a Digital image.
+linkings:
+index term: Index term | True
+automatic image annotation: Automatic image annotation | True
+digital image: Digital image | True
+metadata: Metadata | True
+tagging: Mention (blogging) | False
+
+################################################################################
+title: Cubic plane curve
+description: In Mathematics, a cubic plane curve is a plane algebraic curve C defined by a cubic equation.
+linkings:
+cubic plane curve: Cubic plane curve | True
+
+################################################################################
+title: Domain name
+description: Domain names are organized in subordinate levels (subdomains) of the DNS root domain, which is nameless.
+linkings:
+root domain: DNS root zone | True
+dns: Domain Name System | True
+domain name: Domain name | True
+
+################################################################################
+title: Time Protocol
+description: Operation over UDP requires the sending of any datagram to the server port, as there is no connection setup for UDP.
+linkings:
+udp: User Datagram Protocol | True
+port: Port (computer networking) | True
+
+################################################################################
+title: Fractional cascading
+description: In Computer science, fractional cascading is a technique to speed up a sequence of binary searches for the same value in a sequence of related data structures.
+linkings:
+fractional cascading: Fractional cascading | True
+sequence: Insertion sequence | True
+binary search: Binary search algorithm | True
+
+################################################################################
+title: Filter bank
+description: One application of a filter bank is a graphic equalizer, which can attenuate the components differently and recombine them into a modified version of the original signal.
+linkings:
+filter bank: Filter bank | True
+signal: SIGNAL (programming language) | True
+
+################################################################################
+title: Parabolic cylindrical coordinates
+description: In Mathematics, parabolic cylindrical coordinates are a three-dimensional orthogonal coordinate system that results from projecting the two-dimensional parabolic coordinate system in the perpendicular -direction.
+linkings:
+cylindrical coordinate: Cylindrical coordinate system | True
+
+################################################################################
+title: Hunspell
+description: While MySpell uses a single-byte character encoding, Hunspell can use Unicode UTF-8-encoded dictionaries.
+linkings:
+utf 8 encoded: UTF-8 | True
+unicode: UTF-8 | True
+character encoding: Character encoding | True
+spell: MySpell | False
+hunspell: Hunspell | True
+
+################################################################################
+title: Chrome OS
+description: Early on, Google provided design goals for Chrome OS, but has not otherwise released a technical description.
+linkings:
+chrome os: Chrome OS | True
+
+################################################################################
+title: CCSID
+description: forms, like UTF-8, UTF-16 and UTF-32, but which may or may not actually be accompanied by a CCSID number to indicate that this encoding is being used.
+linkings:
+ccsid: CCSID | True
+utf 16: UTF-16 | True
+encoding: Character encoding | True
+
+################################################################################
+title: Empty set
+description: Many possible properties of sets are vacuously true for the empty set.
+linkings:
+set: Element (mathematics) | True
+empty set: Empty set | True
+
+################################################################################
+title: White noise
+description: White noise draws its name from white light, although light that appears white generally does not have a flat power spectral density over the visible band.
+linkings:
+white noise: White noise | True
+
+################################################################################
+title: Grid method multiplication
+description: Compared to traditional long multiplication, the grid method differs in clearly breaking the multiplication and addition into two steps, and in being less dependent on place value.
+linkings:
+grid method: Grid method multiplication | True
+
+################################################################################
+title: SHA-1
+description: Replacing SHA-1 is urgent where SHA-1 is used for digital signatures.
+linkings:
+sha 1: SHA-1 | True
+
+################################################################################
+title: Business requirements
+description: Business requirements exist within the business environment and must be discovered, whereas product requirements are human-defined (specified) .
+linkings:
+requirement: Requirement | True
+business requirement: Business requirements | True
+
+################################################################################
+title: Virtual tape library
+description: Most current VTL solutions use SAS or SATA Disk arrays as the primary storage component due to most current vtl solutions relatively low cost.
+linkings:
+solution: Solution architecture | False
+vtl: Virtual tape library | True
+disk array: Disk array | True
+component: Component (UML) | False
+
+################################################################################
+title: Macro (computer science)
+description: Macros are used to make a sequence of computing instructions available to Computer programming as a single program statement, making the programming task less tedious and less error-prone.
+linkings:
+macros: IMacros | False
+computer programming: Computer programming | True
+programming: Computer programming | True
+
+################################################################################
+title: Syntactic category
+description: The terminology is dependent on which grammarian theory we're learning about.
+linkings:
+theory: Theory (mathematical logic) | False
+
+################################################################################
+title: Enumerated type
+description: Values and variables of an enumerated type are usually implemented as fixed-length bit strings, often in a format and size compatible with some Integer (computer science) type.
+linkings:
+value: Value (computer science) | True
+variable: Variable (computer science) | True
+type: Data type | True
+integer: Integer (computer science) | True
+size: Data type | False
+
+################################################################################
+title: PowerVM Lx86
+description: All versions and releases of the Lx86 product were withdrawn from marketing in September 2011, with support discontinued in April 2013.
+linkings:
+lx 86: PowerVM Lx86 | True
+
+################################################################################
+title: Axiom of extensionality
+description: In axiomatic set theory and the branches of Logic, Mathematics, and Computer science that use it, the axiom of extensionality, or axiom of extension, is one of Axioms of Zermelo–Fraenkel set theory.
+linkings:
+axiomatic set theory: Set theory | True
+set theory: Set theory | True
+
+################################################################################
+title: Socialtext
+description: Socialtext Incorporated integrated suite of web-based Social software applications includes microblogging, User profile, directories, groups, personal dashboards using OpenSocial widgets, shared Spreadsheet, Wiki, and weblog collaboration tools, and mobile apps.
+linkings:
+open social: OpenSocial | True
+socialtext: Socialtext | True
+
+################################################################################
+title: Interaction overview diagram
+description: This makes the interaction overview diagram useful to "deconstruct a complex scenario that would otherwise require multiple if-then-else paths to be illustrated as a single sequence diagram".
+linkings:
+diagram: Diagram | True
+
+################################################################################
+title: Bounds checking
+description: A failed bounds check usually results in the generation of some sort of Exception handling signal.
+linkings:
+exception: Exception handling | False
+
+################################################################################
+title: Extended Validation Certificate
+description: An Extended Validation Certificate (EV) is a certificate conforming to X.509 that proves the legal entity of the owner and is signed by a Certificate authority key that can issue EV certificates.
+linkings:
+ev certificate: Extended Validation Certificate | True
+certificate authority: Certificate authority | True
+x . 509: X.509 | True
+certificate: Extended Validation Certificate | True
+ev: Extended Validation Certificate | True
+extended validation certificate: Extended Validation Certificate | True
+
+################################################################################
+title: MessagePack
+description: MessagePack aims to be as compact and simple as possible.
+linkings:
+message pack: MessagePack | True
+
+################################################################################
+title: Stop-and-wait ARQ
+description: If two subsequent frames have the same sequence number, two subsequent frames have the same sequence number are duplicates, and the second frame is discarded.
+linkings:
+frame: Frame (networking) | True
+sequence number: Transmission Control Protocol | False
+
+################################################################################
+title: Impulse C
+description: Impulse C is developed by Impulse Accelerated Technologies of Kirkland, Washington.
+linkings:
+impulse c: Impulse C | True
+
+################################################################################
+title: Virtual collaboration
+description: Virtual collaboration is the method of collaboration between Virtual team members that is carried out via technology-mediated communication.
+linkings:
+virtual collaboration: Virtual collaboration | True
+virtual team: Virtual team | True
+
+################################################################################
+title: Known-key distinguishing attack
+description: The chosen-key distinguishing attack is strongly related, where the attacker can choose a key to introduce such transformations.
+linkings:
+key: Key (cryptography) | True
+key distinguishing attack: Known-key distinguishing attack | True
+
+################################################################################
+title: WPS-8
+description: Once a document is opened for editing, near WYSIWYG editing is provided using a ruler to indicate the text alignment and tab stops for any given portion of the text.
+linkings:
+document: Here document | False
+wysiwyg: WYSIWYG | True
+
+################################################################################
+title: Stable marriage problem
+description: In Mathematics, Economics, and Computer science, the stable marriage problem (also stable matching problem or SMP) is the problem of finding a stable matching between two equally sized sets of elements given an ordering of preferences for each element.
+linkings:
+stable matching: Stable marriage problem | True
+stable matching problem: Stable marriage problem | True
+stable marriage problem: Stable marriage problem | True
+
+################################################################################
+title: Automated planning and scheduling
+description: Planning is also related to Decision theory.
+linkings:
+decision theory: Decision theory | True
+
+################################################################################
+title: Digi-Key
+description: Digi-Key is a privately held American company that distributes electronic components.
+linkings:
+digi key: Digi-Key | True
+
+################################################################################
+title: Java Platform, Micro Edition
+description: Users of Windows CE, Windows Mobile, Maemo, MeeGo and Android software development can download JavaME for MeeGo and Android respective environments ("proof-of-concept" for Android) .
+linkings:
+windows mobile: Windows Mobile | True
+environment: Runtime system | True
+mee go: MeeGo | True
+windows ce: Windows Embedded Compact | True
+java: Java Platform | True
+"Micro Edition", True
+
+################################################################################
+title: Application security
+description: Different techniques are used to surface such security Vulnerability (computing) at different stages of an application's lifecycle such as Software design, Software development, Software deployment, upgrade, Software maintenance.
+linkings:
+application lifecycle: Software development process | True
+software development: Software development | True
+software design: Software design | True
+software maintenance: Software maintenance | True
+security vulnerability: Vulnerability (computing) | True
+software deployment: Software deployment | True
+
+################################################################################
+title: Blockchain
+description: However, others have argued that permissioned blockchains, if carefully designed, may be more decentralized and therefore secure in practice than permissionless ones.
+linkings:
+blockchain: Blockchain | True
+
+################################################################################
+title: Kernel (operating system)
+description: Kernel (operating system) handles the rest of startup as well as memory, Peripherals, and Input/output (I/O) requests from Software, translating them into Data processing instructions for Central processing unit.
+linkings:
+memory: Out of memory | False
+central processing unit: Central processing unit | True
+kernel: Kernel (operating system) | True
+input / output: Input/output | True
+
+################################################################################
+title: Zero-knowledge proof
+description: A zero-knowledge proof of knowledge is a special case when the statement consists only of the fact that the prover possesses the secret information.
+linkings:
+zero knowledge proof: Zero-knowledge proof | True
+
+################################################################################
+title: Falsing
+description: Analog tone decoders used in telephone and two-way radio systems are designed to work in a balance between expensive, complicated filtering and low cost simplicity.
+linkings:
+decoder: Binary decoder | True
+
+################################################################################
+title: Call site
+description: In programming, a call site of a function or subroutine is the location (line of code) where the function is called (or may be called, through Dynamic dispatch) .
+linkings:
+call site: Call site | True
+dynamic dispatch: Dynamic dispatch | True
+subroutine: Subroutine | True
+function: Subroutine | True
+
+################################################################################
+title: HTK (software)
+description: HTK (software) is mainly intended for Speech recognition, but has been used in many other Pattern recognition applications that employ HMMs, including Speech synthesis, character recognition and DNA sequencing.
+linkings:
+pattern recognition: Pattern recognition | True
+htk: HTK (software) | True
+speech synthesis: Speech synthesis | True
+speech recognition: Speech recognition | True
+
+################################################################################
+title: Signature mark
+description: A signature mark, in traditional bookbinding, is a letter, number or combination of either or both, which is printed at the bottom of the first page, or leaf, of a section.
+linkings:
+signature mark: Signature mark | True
+
+################################################################################
+title: Graph labeling
+description: In the above definition a graph is understood to be a finite undirected simple graph.
+linkings:
+simple graph: Graph (discrete mathematics) | True
+undirected: Graph (discrete mathematics) | True
+
+################################################################################
+title: Aqua (user interface)
+description: Aqua (user interface) was originally based on the theme of water, with droplet-like components and a liberal use of reflection effects and translucency.
+linkings:
+aqua: Aqua (user interface) | True
+theme: Theme (computing) | True
+
+################################################################################
+title: Aurora (protocol)
+description: Developed by Xilinx, Aurora (protocol) is intended for use in high-speed (Gigabits/second and more) connections internally in a computer or in an Embedded system.
+linkings:
+aurora: Aurora (protocol) | True
+protocol: Cryptographic protocol | False
+embedded system: Embedded system | True
+
+################################################################################
+title: Janus (DRM)
+description: Janus is the codename for a portable version of Windows Media DRM for portable devices, whose marketing name is Windows Media DRM for Portable Devices (or in short form WMDRM-PD) introduced by Microsoft in 2004 for use on portable media devices which store and access content offline.
+linkings:
+janus: Janus (DRM) | True
+portable device: Mobile device | True
+wmdrm pd: Janus (DRM) | True
+portable devices: Mobile device | True
+windows media drm: Windows Media DRM | True
+
+################################################################################
+title: Multi-master replication
+description: The primary purposes of multi-master replication are increased availability and faster server response time.
+linkings:
+multi master replication: Multi-master replication | True
+
+################################################################################
+title: MIRC
+description: mIRC is a fully functional chat utility, and mIRC integrated scripting language makes mIRC extensible and versatile.
+linkings:
+irc: MIRC | True
+
+################################################################################
+title: Serial-position effect
+description: People with Alzheimer's disease exhibit a reduced primacy effect but do not produce a recency effect in recall.
+linkings:
+recency effect: Serial-position effect | True
+primacy effect: Serial-position effect | True
+recall: Precision and recall | True
+
+################################################################################
+title: Computer graphics
+description: Some topics in computer graphics include User interface design, sprite graphics, Rendering (computer graphics) , Ray tracing (graphics) , Geometry processing, Computer animation, Vector graphics, 3D modeling, Shaders, GPU design, Implicit surfaces, Visualization (graphics) , image processing, Computational photography, scientific visualization, Computational geometry and Computer vision, among others.
+linkings:
+computer vision: Computer vision | True
+computational geometry: Computational geometry | True
+graphic: Graphics | True
+visualization: Visualization (graphics) | True
+computer animation: Computer animation | True
+computational photography: Computational photography | True
+user interface design: User interface design | True
+vector graphic: Vector graphics | True
+ray tracing: Ray tracing (graphics) | True
+rendering: Rendering (computer graphics) | True
+
+################################################################################
+title: Automated planning and scheduling
+description: Solutions usually resort to iterative Trial and error processes commonly seen in Artificial intelligence.
+linkings:
+artificial intelligence: Artificial intelligence | True
+solution: Solution architecture | False
+
+################################################################################
+title: Computer font
+description: Although the term font first referred to a set of Movable type pieces in one style and size, since the 1990s it is generally used to refer to a set of digital shapes in a single style, scalable to different sizes.
+linkings:
+movable type: Movable type | True
+shape: Geometric primitive | True
+
+################################################################################
+title: PROJ
+description: The library also ships with Executables for performing these transformations from the command line.
+linkings:
+library: Library (computing) | True
+
+################################################################################
+title: Streaming SIMD Extensions
+description: Intel was later renamed Internet Streaming SIMD Extensions (ISSE) , then SSE.
+linkings:
+isse: Streaming SIMD Extensions | True
+sse: Streaming SIMD Extensions | True
+simd: SIMD | True
+
+################################################################################
+title: Orthogenesis
+description: The American paleontologist George Gaylord Simpson (1953) attacked orthogenesis, linking the american paleontologist george gaylord simpson (1953) with vitalism by describing the american paleontologist george gaylord simpson (1953) as "the mysterious inner force".
+linkings:
+orthogenesis: Orthogenesis | True
+
+################################################################################
+title: Linux distribution
+description: Most distributions come ready to use and pre-compiled for a specific instruction set, while some distributions (such as Gentoo Linux) are distributed mostly in Source code form and compiled locally during installation.
+linkings:
+source code: Source code | True
+gentoo linux: Gentoo Linux | True
+
+################################################################################
+title: Sixel
+description: Sixel was first introduced as a way of sending bitmap graphics to DEC dot matrix printers like the LA50.
+linkings:
+bitmap: Bitmap | True
+sixel: Sixel | True
+
+################################################################################
+title: Windows Hardware Lab Kit
+description: Earlier similarly released frameworks provides automated scheduling and execution of Device driver tests that Computer hardware vendors are required to pass in order to qualify to use WHQL Testing.
+linkings:
+whql testing: WHQL Testing | True
+driver: Device driver | True
+
+################################################################################
+title: Programming Computable Functions
+description: Programming Computable Functions can be considered to be an extended version of Typed lambda calculus or a simplified version of modern typed functional languages such as ML or Haskell (programming language) .
+linkings:
+typed lambda calculus: Typed lambda calculus | True
+functional language: Functional programming | True
+haskell: Haskell (programming language) | True
+
+################################################################################
+title: OPeNDAP
+description: When source data are organized as files, DAP retrievals enable, via Subsetting, finer-grained access than does File Transfer Protocol.
+linkings:
+file: File URI scheme | False
+file transfer protocol: File Transfer Protocol | True
+
+################################################################################
+title: Job Definition Format
+description: Acrobat 7 includes a menu item to create a JDF file linked to a PDF file.
+linkings:
+file: File URI scheme | False
+jdf: Job Definition Format | True
+
+################################################################################
+title: Take Command Console
+description: Take Command was the name that JP Software used for JP Software GUI command-line interpreters for Windows 3.1 (TC16) , Windows 32-bit (TC32) and later OS/2 Presentation Manager (TCOS2) .
+linkings:
+jp software: Take Command Console | True
+
+################################################################################
+title: Non-blocking algorithm
+description: In Computer science, an Algorithm is called non-blocking if failure or Scheduling (computing) of any Thread (computing) cannot cause failure or suspension of another thread; for some operations, these algorithms provide a useful alternative to traditional Lock (computer science) .
+linkings:
+scheduling: Scheduling (computing) | True
+thread: Thread (computing) | True
+computer science: Computer science | True
+computing: Computer science | True
+lock: Lock (computer science) | True
+
+################################################################################
+title: Ipe (software)
+description: Ipe can paste bitmap images from clipboard or import from JPEG or Bitmap, and also through a conversion software Ipe can import PDF figures generated by other software.
+linkings:
+pdf: PDF | True
+ipe: Ipe (software) | True
+
+################################################################################
+title: Zeisel number
+description: A Zeisel number, named after Helmut Zeisel, is a Square-free integer k with at least three prime factors which fall into the pattern where a and b are some Integer constants and x is the index number of each prime factor in the factorization, sorted from lowest to highest.
+linkings:
+integer: Integer | True
+prime factor: Prime number | True
+square free integer: Square-free integer | True
+zeisel number: Zeisel number | True
+
+################################################################################
+title: MSN Soapbox
+description: Users also did not need to open a new window to continue using the site and browsing videos when Users were uploading a video of Users own.
+linkings:
+user: Mention (blogging) | False
+
+################################################################################
+title: Büchi automaton
+description: A non-deterministic Büchi automaton, later referred to just as a Büchi automaton, has a transition function which may have multiple outputs, leading to many possible paths for the same input; the same input accepts an infinite input if and only if some possible path is accepting.
+linkings:
+input: Input (computer science) | True
+b ü chi automaton: Büchi automaton | True
+function: Function object | True
+
+################################################################################
+title: IBM System z9
+description: It was also the last mainframe computer that NASA ever used.
+linkings:
+mainframe computer: Mainframe computer | True
+
+################################################################################
+title: Torrent file
+description: Many free/freeware programs and operating systems, such as the various Linux distribution and GIMP, offer a torrent download option for users seeking the aforementioned benefits.
+linkings:
+torrent: Torrent file | True
+
+################################################################################
+title: K-mer
+description: More generally, a sequence of length will have k-mers and total possible k-mers, where is number of possible monomers (e.g. four in the case of DNA) .
+linkings:
+k mer: K-mer | True
+sequence: Insertion sequence | True
+
+################################################################################
+title: RPM Package Manager
+description: RPM was intended primarily for Linux distributions; the file format is the baseline package format of the Linux Standard Base.
+linkings:
+rpm: RPM Package Manager | True
+
+################################################################################
+title: Max (software)
+description: Max program is modular, with most routines existing as shared libraries.
+linkings:
+max: Max (software) | True
+
+################################################################################
+title: Htop
+description: Compared to top, htop provides a more convenient, visual, cursor-controlled interface for sending signals to processes.
+linkings:
+htop: Htop | True
+top: Top (software) | True
+process: Process management (computing) | False
+
+################################################################################
+title: Relvar
+description: Other database textbooks continue to use the term Relation (database) for both the variable and the data the term relation (database) contains.
+linkings:
+relation: Relation (database) | True
+
+################################################################################
+title: Ezmlm
+description: Ezmlm now exists as a complete package on Ezmlm own, but can still be considered essentially as an extension to ezmlm.
+linkings:
+ezmlm: Ezmlm | True
+
+################################################################################
+title: Mac OS X Lion
+description: A preview of Mac OS X 10.7 Lion was publicly shown at the "Back to the Mac" Apple Special Event on October 20, 2010.
+linkings:
+lion: Mac OS X Lion | True
+mac os x 10 . 7: Mac OS X Lion | True
+
+################################################################################
+title: Crunchbase
+description: Members of the public can submit information to the Crunchbase database.
+linkings:
+crunchbase: Crunchbase | True
+
+################################################################################
+title: Bounded weak echo region
+description: Bounded weak echo region cannot be seen visually.
+linkings:
+bounded weak echo region: Bounded weak echo region | True
+
+################################################################################
+title: ISCC–NBS system
+description: The system aims to provide a basis on which color definitions in fields from fashion and printing to botany and geology can be systematized and regularized, so that each industry need not invent each industry own incompatible color system.
+linkings:
+color system: Color model | True
+
+################################################################################
+title: Microsoft Comic Chat
+description: Comic Chat was developed by Microsoft Researcher David Kurlander, with Microsoft Research's Virtual Worlds Group and later a group he managed in Microsoft's Internet Division.
+linkings:
+comic chat: Microsoft Comic Chat | True
+
+################################################################################
+title: Identity transform
+description: The identity transform is a Data transformation that copies the source data into the destination data without change.
+linkings:
+data transformation: Data transformation | True
+
+################################################################################
+title: Noise gate
+description: The threshold is set above the level of the "noise", and so when there is no main "signal", the gate is closed.
+linkings:
+level: Level (logarithmic quantity) | True
+gate: Noise gate | True
+
+################################################################################
+title: Color64
+description: Color64 was advanced for Color64 time.
+linkings:
+color 64: Color64 | True
+
+################################################################################
+title: Grabyo
+description: For example, Grabyo's technology was used by Eurosport to publish over 9,000 social video clips during the winter Olympics.
+linkings:
+grabyo: Grabyo | True
+
+################################################################################
+title: RapidMiner
+description: RapidMiner is used for business and commercial applications as well as for research, education, training, rapid prototyping, and application development and supports all steps of the machine learning process including data preparation, results Information visualization, model validation and optimization.
+linkings:
+rapid miner: RapidMiner | True
+
+################################################################################
+title: Freeware
+description: Unlike with Free and open-source software, which are also often distributed free of charge, Source code for freeware is typically not made available.
+linkings:
+free and open source software: Free and open-source software | True
+source code: Source code | True
+freeware: Freeware | True
+
+################################################################################
+title: First-person view (radio control)
+description: The vehicle is either driven or piloted remotely from a first-person perspective via an onboard camera, fed wirelessly to video FPV goggles or a video monitor.
+linkings:
+fpv: First-person view (radio control) | True
+first person: First-person view (radio control) | True
+
+################################################################################
+title: Tautology (logic)
+description: In logic, a formula is satisfiable if it is true under at least one interpretation, and thus a tautology is a formula whose negation is unsatisfiable.
+linkings:
+interpretation: Interpretation (logic) | True
+formula: Well-formed formula | True
+tautology: Tautology (logic) | True
+negation: Negation | True
+logic: Universal quantification | False
+
+################################################################################
+title: IRC services
+description: Services are automated Internet bots with special status which are generally used to provide users with access with certain privileges and protection.
+linkings:
+bot: Internet bot | True
+service: Service (systems architecture) | False
+
+################################################################################
+title: I-number
+description: By contrast, IP addresses are constantly reassigned, e.g., your computer may have a different IP address every time your computer connects to the Internet.
+linkings:
+ip address: IP address | True
+
+################################################################################
+title: MongoDB
+description: MongoDB is a source-available cross-platform Document-oriented database program.
+linkings:
+mongo db: MongoDB | True
+
+################################################################################
+title: Down payment
+description: If the borrower is unable to pay off the loan in the borrower entirety, the down payment amount is forfeited.
+linkings:
+payment: Down payment | True
+
+################################################################################
+title: LyX
+description: LyX is available for all major operating systems, including Microsoft Windows, MacOS, Linux, UNIX, OS/2 and Haiku (operating system) .
+linkings:
+haiku: Haiku (operating system) | True
+lyx: LyX | True
+
+################################################################################
+title: Anaglyph 3D
+description: Anaglyph 3D is Stereoscopy 3D effect achieved by means of encoding each eye's image using filters of different (usually chromatically opposite) colors, typically red and cyan.
+linkings:
+stereoscopy: Stereoscopy | True
+anaglyph 3: Anaglyph 3D | True
+
+################################################################################
+title: Hebrew alphabet
+description: The original, old Hebrew script, known as the paleo-Hebrew alphabet, has been largely preserved in a variant form as the Samaritan alphabet.
+linkings:
+hebrew script: Hebrew alphabet | True
+hebrew alphabet: Hebrew alphabet | True
+
+################################################################################
+title: OpenCV
+description: Starting with 2011, OpenCV features GPU acceleration for real-time operations.
+linkings:
+open cv: OpenCV | True
+
+################################################################################
+title: Gpsd
+description: Gpsd is distributed as Free software under the 3-clause BSD license.
+linkings:
+free software: Free software | True
+gpsd: Gpsd | True
+
+################################################################################
+title: Third-party software component
+description: Third-party software component market thrives because many programmers believe that component-oriented development improves the efficiency and the quality of developing custom applications.
+linkings:
+third party software component: Third-party software component | True
+
+################################################################################
+title: Intel Rapid Storage Technology
+description: Intel RST comes in two variants, RST for desktops, and RSTe (VROC is a part of Intel RSTe) for enterprise scenarios, although for many chipsets, the user can choose as both variants will operate correctly.
+linkings:
+rst: Intel Rapid Storage Technology | True
+intel rst: Intel Rapid Storage Technology | True
+
+################################################################################
+title: Coca-Cola
+description: The bottlers then sell, distribute, and merchandise Coca-Cola to retail stores, restaurants, and vending machines throughout the world.
+linkings:
+coca cola: Coca-Cola | True
+
+################################################################################
+title: Yahoo! Calendar
+description: Calendar is one of the largest online calendar providers and serves millions of users.
+linkings:
+calendar: Calendaring software | True
+user: Mention (blogging) | False
+
+################################################################################
+title: Mobile app development
+description: Users, on average, spend 90 percent of Users mobile time in apps and there are more than 700 million apps downloads from various app stores.
+linkings:
+app: Mobile app | True
+
+################################################################################
+title: Transparency (graphic)
+description: In addition, transparency is often an "extra" for a graphics format, and some graphics programs will ignore the transparency.
+linkings:
+transparency: Transparency (graphic) | True
+
+################################################################################
+title: Cosmos (operating system)
+description: Cosmos encompasses an AOT compiler named IL2CPU to translate Common Intermediate Language (CIL) into native instructions.
+linkings:
+cosmos: Cosmos (operating system) | True
+common intermediate language: Common Intermediate Language | True
+il 2 cpu: IL2CPU | True
+
+################################################################################
+title: C data types
+description: Data types also determine the types of operations or methods of processing of data elements.
+linkings:
+element: Element (mathematics) | True
+type: Data type | True
+
+################################################################################
+title: Fantom (programming language)
+description: Like C Sharp (programming language) and Java (programming language) , Fantom uses a curly brace syntax.
+linkings:
+c sharp: C Sharp (programming language) | True
+fantom: Fantom (programming language) | True
+java: Java (programming language) | True
+
+################################################################################
+title: VirtualDub
+description: In 2009, the third-party software print guide Learning VirtualDub referred to VirtualDub as "the leading free Open Source video capture and processing tool".
+linkings:
+virtual dub: VirtualDub | True
+
+################################################################################
+title: Augmented transition network
+description: W. A. Woods in "Transition Network Grammars for Natural Language Analysis" claims that by adding a recursive mechanism to a finite state model, parsing can be achieved much more efficiently.
+linkings:
+language: Formal language | False
+
+################################################################################
+title: ATM adaptation layer
+description: ATM adaptation layer defines how to segment higher-layer packets into cells and the reassembly of these packets.
+linkings:
+atm adaptation layer: ATM adaptation layer | True
+packet: Network packet | True
+
+################################################################################
+title: Fast inverse square root
+description: Treating the bits again as a floating-point number, the bits runs one iteration of Newton's method, yielding a more precise approximation.
+linkings:
+floating point number: Floating-point arithmetic | True
+newton method: "Newtons method" | True
+
+################################################################################
+title: Slerp
+description: In Computer graphics, Slerp is shorthand for spherical linear interpolation, introduced by Ken Shoemake in the context of Quaternion Interpolation for the purpose of Animation 3D Rotation.
+linkings:
+interpolation: Interpolation | True
+quaternion: Quaternion | True
+spherical linear interpolation: Slerp | True
+slerp: Slerp | True
+
+################################################################################
+title: Font family (HTML)
+description: The font family selection in HTML, CSS, and derived systems specifies a list of prioritized fonts and generic family names; in conjunction with correlating font properties, this list determines the particular font face used to render characters.
+linkings:
+html: HTML | True
+property: Attribute (computing) | True
+font: Font family (HTML) | True
+family: Font family (HTML) | True
+selection: Selection (user interface) | True
+font family: Font family (HTML) | True
+css: CSS | True
+font face: Font family (HTML) | True
+
+################################################################################
+title: Higher-order function
+description: Higher-order functions should not be confused with other uses of the word "functor" throughout mathematics, see Functor (disambiguation) .
+linkings:
+order function: Higher-order function | True
+
+################################################################################
+title: Free category
+description: Here, a path is defined as a finite sequence where is a vertex of the quiver, is an edge of the quiver, and n ranges over the non-negative integers.
+linkings:
+path: Path (graph theory) | True
+
+################################################################################
+title: Open Bioinformatics Foundation
+description: In October 2012, the foundation began an association with Software in the Public Interest (SPI) , a US-based non-profit which aids other organizations in the creation and distribution of Free software and Open-source software.
+linkings:
+spi: Software in the Public Interest | True
+open source software: Open-source software | True
+free software: Free software | True
+
+################################################################################
+title: Distributed database
+description: In the duplication process, users may change only the master database.
+linkings:
+process: Business process modeling | False
+
+################################################################################
+title: DICT
+description: DICT is described by RFC 2229, published in 1997.
+linkings:
+dict: DICT | True
+
+################################################################################
+title: TrustedSource
+description: Those systems have also been effective at tracking and monitoring botnets, such as the infamous Storm worm.
+linkings:
+storm worm: Storm Worm | True
+
+################################################################################
+title: Object-oriented programming
+description: OOP languages are diverse, but the most popular ones are Class-based programming, meaning that objects are Instance (computer science) of classes, which also determine the most popular ones Data type.
+linkings:
+instance: Instance (computer science) | True
+computer science: This (computer programming) | False
+data type: Data type | True
+object: Object (computer science) | True
+
+################################################################################
+title: Bullet (typography)
+description: The bullet symbol may take any of a variety of shapes, such as circular, square, diamond or arrow.
+linkings:
+bullet symbol: Bullet (typography) | True
+
+################################################################################
+title: YouVersion
+description: In 2020, according to YouVersion, YouVersion Bible App features 2,062 Bible versions in 1,372 languages, audio Bibles for popular versions, offline capabilities, as well as over 800 Bible Plans on specific topics, portions of the Bible, the entire Bible, and devotionals.
+linkings:
+version: YouVersion | True
+
+################################################################################
+title: Spatial normalization
+description: Spatial normalization typically employs a 3-dimensional nonrigid transformation model (a "warp-field") for warping a brain scan to a template.
+linkings:
+scan: Elevator algorithm | False
+spatial normalization: Spatial normalization | True
+
+################################################################################
+title: General MIDI
+description: The official specification is available in English from the MMA, bound together with the MIDI 1.0 specification, and in Japanese from the Association of Musical Electronic Industry (AMEI) .
+linkings:
+mma: MIDI Manufacturers Association | True
+
+################################################################################
+title: Property list
+description: Property list files are often used to store a user's settings.
+linkings:
+property list: Property list | True
+
+################################################################################
+title: Reliability (computer networking)
+description: Reliability is a synonym for assurance, which is the term used by the ITU and ATM Forum.
+linkings:
+reliability: Reliability (computer networking) | True
+
+################################################################################
+title: PL/SQL
+description: PL/SQL can handle Exception handlings (run-time errors) .
+linkings:
+pl / sql: PL/SQL | True
+exception handling: Exception handling | True
+
+################################################################################
+title: IRip
+description: iRip was developed for the Hack Show during MacHack 2003.
+linkings:
+rip: IRip | True
+
+################################################################################
+title: Extrapolation
+description: In Mathematics, extrapolation is a type of estimation, beyond the original observation range, of the value of a variable on the basis of extrapolation relationship with another variable.
+linkings:
+extrapolation: Extrapolation | True
+
+################################################################################
+title: Interpolation (computer graphics)
+description: The color of an object can be defined by key color-locations or frames allowing the computation of smooth color gradients around an object or varying in time.
+linkings:
+frame: Frame (artificial intelligence) | False
+object: Object (image processing) | True
+
+################################################################################
+title: Hard Disk 20
+description: By that time SCSI interface introduced on Macintosh Plus in January 1986, would accommodate far faster and more efficient hard drives, rendering Hard Disk 20 virtually obsolete.
+linkings:
+hard disk: Hard Disk 20 | True
+hard drive: Hard disk drive | True
+
+################################################################################
+title: Zombie process
+description: In the term's metaphor, the child process has "died" but has not yet been "reaped".
+linkings:
+child process: Child process | True
+
+################################################################################
+title: Klibc
+description: klibc is dual-licensed under a BSD three-clause (formerly four-clause, rectified via Historical Permission Notice and Disclaimer) , as well as the GPLv2 (GPLv2 only, due to Linux-kernel restrictions) .
+linkings:
+klibc: Klibc | True
+
+################################################################################
+title: Virtual world
+description: The form of communication used can substantially affect the experience of players in the game.
+linkings:
+game: Virtual world | True
+
+################################################################################
+title: Google Play Music
+description: Google Play Music was a music and podcast streaming service and online music locker operated by Google, part of Google Play Music Google Play line of services.
+linkings:
+google: Google Play Music | False
+music: Google Play Music | False
+google play music: Google Play Music | True
+google play: Google Play | True
+
+################################################################################
+title: Macintosh Common Lisp
+description: Macintosh Common Lisp (MCL) is an implementation and IDE for Common Lisp Programming language.
+linkings:
+mcl: Macintosh Common Lisp | True
+lisp programming language: Lisp (programming language) | True
+macintosh common lisp: Macintosh Common Lisp | True
+
+################################################################################
+title: DNF (software)
+description: DNF or Dandified YUM is the next-generation version of Yum (software) (yum) , a Package manager for .rpm-based distributions.
+linkings:
+package manager: Package manager | True
+yum: Yum (software) | True
+dnf: DNF (software) | True
+
+################################################################################
+title: ITU-R BT.656
+description: Typical applications include the interface between a PAL/NTSC decoder chip and a Digital-to-analog converter Integrated circuit for driving a CRT in a TV set.
+linkings:
+chip: Integrated circuit | True
+
+################################################################################
+title: Data pre-processing
+description: The phrase "garbage in, garbage out" is particularly applicable to Data mining and Machine learning projects.
+linkings:
+machine learning: Machine learning | True
+data mining: Data mining | True
+
+################################################################################
+title: Network Voice Protocol
+description: Network Voice Protocol was an early example of Voice over Internet Protocol technology.
+linkings:
+network voice protocol: Network Voice Protocol | True
+
+################################################################################
+title: Bound variable pronoun
+description: Semantic analyses focus on the interpretation of the quantifiers.
+linkings:
+semantic analysis: Semantic analysis (computational) | True
+
+################################################################################
+title: Von Neumann universal constructor
+description: John von Neumann's universal constructor was designed in the 1940s, without the use of a computer.
+linkings:
+von neumann universal constructor: Von Neumann universal constructor | True
+
+################################################################################
+title: Custom software
+description: As such, Custom software can be contrasted with the use of software packages developed for the mass market, such as commercial off-the-shelf software, or existing Free software.
+linkings:
+custom software: Custom software | True
+free software: Free software | True
+
+################################################################################
+title: Workplace Shell
+description: All other functionality of the parent class can safely remain unchanged, ensuring the seamless integration of the added or modified functionality and with that the consistency of the remaining user interface.
+linkings:
+parent class: Inheritance (object-oriented programming) | True
+
+################################################################################
+title: Proof of knowledge
+description: In this case the set of knowledge elements is limited to a set of witnesses of some Formal language in NP (complexity) .
+linkings:
+formal language: Formal language | True
+case: If and only if | True
+np: NP (complexity) | True
+witness: Certificate (complexity) | False
+
+################################################################################
+title: Caché ObjectScript
+description: The great majority of Caché's feature-set is inherited from the ANSI MUMPS standard.
+linkings:
+cach é: InterSystems Caché | True
+mumps: MUMPS | True
+
+################################################################################
+title: Audio over Ethernet
+description: While AoE bears a resemblance to Voice over IP (VoIP) and Audio over IP (AoIP) , AoE is intended for high-fidelity, low-latency professional audio.
+linkings:
+latency: Latency (audio) | True
+
+################################################################################
+title: Centroid
+description: In physics, the center of mass is the arithmetic mean of all points weighted by the local density or specific weight.
+linkings:
+point: Point (geometry) | True
+arithmetic mean: Arithmetic mean | True
+
+################################################################################
+title: Pdoc
+description: Built as a successor to Epydoc, Pdoc uses introspection to extract documentation from source code Docstring and allows programmers to generate HTML documentation for chosen Python modules.
+linkings:
+pdoc: Pdoc | True
+
+################################################################################
+title: Factorization of polynomials
+description: Leopold Kronecker rediscovered Schubert's algorithm in 1882 and extended Leopold Kronecker to multivariate polynomials and coefficients in an algebraic extension.
+linkings:
+coefficient: Coefficient | True
+algorithm: Algorithm | True
+
+################################################################################
+title: Sheffer stroke
+description: In Boolean functions and Propositional calculus, the Sheffer stroke denotes a logical operation that is equivalent to the negation of the conjunction operation, expressed in ordinary language as "not both".
+linkings:
+logical operation: Logical connective | True
+sheffer stroke: Sheffer stroke | True
+boolean function: Boolean function | True
+propositional calculus: Propositional calculus | True
+operation: Logical NOR | True
+
+################################################################################
+title: Structural pattern
+description: Flyweight pattern: a large quantity of objects share a common properties object to save space.
+linkings:
+object: Object (computer science) | True
+flyweight pattern: Flyweight pattern | True
+
+################################################################################
+title: Amateur radio
+description: In many countries, amateur radio operators may also send, receive, or relay radio communications between Computers or transceivers connected to secure Virtual private networks on Internet.
+linkings:
+amateur radio: Amateur radio | True
+
+################################################################################
+title: Attention Profiling Mark-up Language
+description: Attention Profiling Mark-up Language (APML) is an XML-based Markup language for documenting a person's interests and dislikes.
+linkings:
+apml: Attention Profiling Mark-up Language | True
+profiling: Profiling (information science) | True
+markup language: Markup language | True
+
+################################################################################
+title: Privacy
+description: The right not to be subjected to unsanctioned invasions of privacy by the government, corporations, or individuals is part of many countries' privacy laws, and in some cases, constitutions.
+linkings:
+privacy: Privacy | True
+
+################################################################################
+title: R3000
+description: Models include the R3041, R3051, R3052, R3071 and R3081.
+linkings:
+r 3051: R3000 | True
+
+################################################################################
+title: Variable-frequency drive
+description: VFDs are made in a number of different low- and medium-voltage AC-AC and DC-AC topologies.
+linkings:
+vfd: Variable-frequency drive | True
+
+################################################################################
+title: Security analysis
+description: Options on these contracts are however considered securities, since performance is now dependent on the activities of a third party.
+linkings:
+activity: Task (project management) | True
+security: Security (finance) | True
+
+################################################################################
+title: Etherloop
+description: Etherloop allows the combination of voice and data transmission on standard phone lines.
+linkings:
+etherloop: Etherloop | True
+
+################################################################################
+title: Clam AntiVirus
+description: The Sourcefire VRT became Cisco Talos, and ClamAV development remains there.
+linkings:
+clam av: Clam AntiVirus | True
+sourcefire: Sourcefire | True
+
+################################################################################
+title: TCP Vegas
+description: TCP Vegas is one of several "flavors" of TCP congestion avoidance algorithms.
+linkings:
+tcp vegas: TCP Vegas | True
+tcp congestion avoidance algorithm: TCP congestion control | True
+
+################################################################################
+title: YUV
+description: The Y′UV color model is used in the PAL Composite video (excluding PAL-N) standard.
+linkings:
+standard: Software standard | True
+composite video: Composite video | True
+
+################################################################################
+title: IJ (digraph)
+description: The ij originally represented a 'long i'.
+linkings:
+ij: IJ (digraph) | True
+
+################################################################################
+title: Command pattern
+description: Four terms always associated with the command pattern are command, receiver, invoker and client.
+linkings:
+command pattern: Command pattern | True
+receiver: Sink (computing) | True
+
+################################################################################
+title: SonicWall
+description: On June 20, 2016, Dell sold SonicWall (part of Dell Dell Software) to private equity firm Francisco Partners and Elliott Management.
+linkings:
+dell: Dell | True
+sonic wall: SonicWall | True
+
+################################################################################
+title: Number
+description: Among the first were the hypercomplex numbers, which consist of various extensions or modifications of Complex number system.
+linkings:
+number: Number | True
+number system: Number | True
+
+################################################################################
+title: Calligra Sheets
+description: Sheets also has the ability to import several spreadsheet formats, including XLS (Microsoft Excel) , Applix Spreadsheet, Quattro Pro, Comma-separated values, dBase, Gnumeric, SXC (OpenOffice.org XML) , Kexi and TXT.
+linkings:
+gnumeric: Gnumeric | True
+quattro pro: Quattro Pro | True
+txt: Text file | True
+open office . org xml: OpenOffice.org XML | True
+spreadsheet: Spreadsheet | True
+kexi: Kexi | True
+format: Format (command) | False
+
+################################################################################
+title: XML namespace
+description: XML namespaces are defined in a W3C recommendation.
+linkings:
+xml namespace: XML namespace | True
+
+################################################################################
+title: Operator grammar
+description: This theory is the culmination of the life work of Zellig Harris, with major publications toward the end of the last century.
+linkings:
+theory: Theory (mathematical logic) | False
+
+################################################################################
+title: WebMethods Flow
+description: The Software AG Designer is the IDE in which to write flow code.
+linkings:
+flow code: WebMethods Flow | True
+
+################################################################################
+title: Printed circuit board
+description: Large numbers of PCBs can be fabricated at the same time, and the layout only has to be done once.
+linkings:
+layout: Integrated circuit layout | True
+pcb: Printed circuit board | True
+
+################################################################################
+title: Baseline (configuration management)
+description: Similarly, but less frequently, a baseline may refer to all items associated with a specific project.
+linkings:
+baseline: Baseline (configuration management) | True
+
+################################################################################
+title: Pale Moon (web browser)
+description: Pale Moon retains the highly customizable user interface of the Firefox version 4–28 era.
+linkings:
+firefox: Firefox | True
+pale moon: Pale Moon (web browser) | True
+
+################################################################################
+title: Grabyo
+description: Grabyo is a browser-based live video production suite integrated with popular social media platforms such as Facebook, YouTube, Instagram, Snapchat, Twitter and Periscope.
+linkings:
+grabyo: Grabyo | True
+twitter: Twitter | True
+
+################################################################################
+title: Event monitoring
+description: These event occurrences may stem from arbitrary sources in both Software or Computer hardware such as operating systems, database management systems, Application software and Microprocessors.
+linkings:
+software: Software | True
+operating system: Operating system | True
+
+################################################################################
+title: Cross-correlation
+description: In Signal processing, cross-correlation is a Similarity measure of two series as a function of the displacement of one relative to the other.
+linkings:
+signal processing: Signal processing | True
+similarity measure: Similarity measure | True
+cross correlation: Cross-correlation | True
+
+################################################################################
+title: Asynchronous array of simple processors
+description: The chip requires no crystal oscillators, Phase-locked loops, delay-locked loops, global Clock signal, or any global frequency or phase-related signals whatsoever.
+linkings:
+clock signal: Clock signal | True
+phase lock loop: Phase-locked loop | True
+oscillator: Oscillator (cellular automaton) | True
+
+################################################################################
+title: Primality certificate
+description: Primality certificates allow the primality of a number to be rapidly checked without having to run an expensive or unreliable Primality test.
+linkings:
+primality certificate: Primality certificate | True
+primality test: Primality test | True
+
+################################################################################
+title: Webcam
+description: A webcam is a Video camera that feeds or streams an image or video in real time to or through a Computer to a Computer network, such as Internet.
+linkings:
+video camera: Video camera | True
+webcam: Webcam | True
+internet: Internet | True
+
+################################################################################
+title: Eigengap
+description: The DavisKahan theorem, named after Chandler Davis and William Kahan, uses the eigengap to show how eigenspaces of an operator change under perturbation.
+linkings:
+eigenspace: Eigenvalues and eigenvectors | True
+eigengap: Eigengap | True
+davis kahan theorem: Eigengap | True
+
+################################################################################
+title: Atarisoft
+description: Almost all of the Atarisoft titles were produced by third-party software companies, as Atari only developed for almost all of the atarisoft titles own systems.
+linkings:
+atarisoft: Atarisoft | True
+
+################################################################################
+title: C10k problem
+description: Note that concurrent connections are not the same as requests per second, though concurrent connections are similar: handling many requests per second requires high throughput (processing concurrent connections quickly) , while a high number of concurrent connections requires efficient scheduling of connections.
+linkings:
+concurrent: Concurrent computing | True
+
+################################################################################
+title: IPad (2017)
+description: The iPad was significantly praised for performance, with reviewers asserting that the model was noticeably faster than older iPad models, and also received positive reviews for the ipad price and battery life.
+linkings:
+pad: IPad (2017) | True
+
+################################################################################
+title: Neurofeedback
+description: Using the electroencephalographic neurofeedback (EEG-NFB) , the individual may gain better control over the neurophysiological parameters, by inducing changes in brain functioning and, consequently, behavior.
+linkings:
+neurofeedback: Neurofeedback | True
+nfb: Neurofeedback | True
+
+################################################################################
+title: Target Disk Mode
+description: Migration Assistant supports Ethernet (wired) or Wi-Fi, which TDM does not.
+linkings:
+ethernet: Ethernet | True
+
+################################################################################
+title: Core Audio
+description: Core Audio is a low-level API for dealing with sound in Apple's MacOS and iOS Operating systems.
+linkings:
+core audio: Core Audio | True
+operating system: Operating system | True
+os: Operating system | True
+api: API | True
+
+################################################################################
+title: Type safety
+description: Type enforcement can be static, catching potential errors at Compile time, or dynamic, associating type information with values at run-time and consulting them as needed to detect imminent errors, or a combination of both.
+linkings:
+type: Data type | True
+compile time: Compile time | True
+value: Value (computer science) | True
+
+################################################################################
+title: Corresponding conditional
+description: Therefore, the construction of a corresponding conditional provides a useful technique for determining the validity of an argument.
+linkings:
+conditional: Material conditional | False
+argument: Argument | True
+
+################################################################################
+title: MIDI Show Control
+description: MSC enables all types of entertainment equipment to easily communicate with each other through the process of Show control.
+linkings:
+msc: MIDI Show Control | True
+show control: Show control | True
+
+################################################################################
+title: Web Services Enhancements
+description: Web services communicate via either SOAP or REST messages.
+linkings:
+web service: Web service | True
+soap: SOAP | True
+
+################################################################################
+title: DirectPlay
+description: DirectPlay provides a way for applications to communicate with each other, regardless of the underlying online service or protocol.
+linkings:
+direct play: DirectPlay | True
+
+################################################################################
+title: Consumer Electronics Control
+description: Consumer Electronics Control (CEC) is a feature of HDMI designed to control HDMI connected devices by using only one remote controller; so, individual CEC enabled devices can command and control each other without user intervention, for up to 15 devices.
+linkings:
+cec: Consumer Electronics Control | True
+consumer electronics control: Consumer Electronics Control | True
+controller: Controller (computing) | True
+hdmi: HDMI | True
+
+################################################################################
+title: NAnt
+description: The name NAnt comes from the fact that the tool is Not Ant.
+linkings:
+n ant: NAnt | True
+ant: Apache Ant | True
+tool: Programming tool | True
+
+################################################################################
+title: B (programming language)
+description: Depending on the context, the word was treated either as an Integer or a Memory address.
+linkings:
+word: Word (computer architecture) | True
+memory address: Memory address | True
+
+################################################################################
+title: Greenstone (software)
+description: Greenstone is a suite of Software tools for building and distributing Digital library collections on Internet or CD-ROM.
+linkings:
+digital library: Digital library | True
+suite: Software suite | True
+greenstone: Greenstone (software) | True
+
+################################################################################
+title: PP (complexity)
+description: Because of this some authors have suggested the alternative name Majority-P.
+linkings:
+majority p: PP (complexity) | True
+
+################################################################################
+title: Java syntax
+description: The Java syntax has been gradually extended in the course of numerous major JDK Java version history, and now supports capabilities such as Generic programming and function literals (called lambda expressions in Java) .
+linkings:
+java version history: Java version history | True
+java syntax: Java syntax | True
+function literal: Anonymous function | True
+generic programming: Generic programming | True
+lambda expression: Anonymous function | True
+java: Java (programming language) | True
+
+################################################################################
+title: Broadcast domain
+description: Separating Virtual LAN divides broadcast domains as well.
+linkings:
+virtual lan: Virtual LAN | True
+broadcast domain: Broadcast domain | True
+
+################################################################################
+title: Random password generator
+description: Note that simply generating a password at random does not a password is a strong password, because a password is possible, although highly unlikely, to generate an easily guessed or cracked password.
+linkings:
+password: Password | True
+
+################################################################################
+title: Explicit memory
+description: In such cases, explicit memory relates to any kind of conscious memory, and declarative memory relates to any kind of memory that can be described in words; however, if it is assumed that a memory cannot be described without being conscious and vice versa, then the two concepts are identical.
+linkings:
+declarative memory: Explicit memory | True
+conscious memory: Explicit memory | True
+explicit memory: Explicit memory | True
+
+################################################################################
+title: Janus (concurrent constraint programming language)
+description: The process receives the message by matching the bag to a pattern that says it is the union of some singleton and some other bag.
+linkings:
+union: Union type | True
+message: Message passing | True
+process: Process management (computing) | True
+
+################################################################################
+title: Simple interactive object extraction
+description: Although the algorithm was originally designed for videos, virtually all implementations use SIOX primarily for still image segmentation.
+linkings:
+implementation: Implementation | True
+algorithm: Algorithm (C++) | False
+video: HTML5 video | False
+
+################################################################################
+title: Natural Earth
+description: Natural Earth's data set contains integrated vector and raster mapping data.
+linkings:
+natural earth: Natural Earth | True
+
+################################################################################
+title: Adform
+description: The company was the first pan-European Demand-side platform.
+linkings:
+demand side platform: Demand-side platform | True
+
+################################################################################
+title: Analog Display Services Interface
+description: Canadian telephone companies such as Telus and Bell Canada, however, had much better luck implementing more ADSI-based services with other industries such as banking, and were still marketing the service actively as of 2005.
+linkings:
+bell canada: Bell Canada | True
+service: As a service | True
+telephone: Telephony | True
+
+################################################################################
+title: Service Access Point
+description: A Service Access Point (SAP) is an identifying label for network endpoints used in Open Systems Interconnection (OSI) networking.
+linkings:
+service access point: Service Access Point | True
+sap: Service Access Point | True
+
+################################################################################
+title: Span (engineering)
+description: From this it follows that if the span is doubled, the maximum moment (and with the span the stress) will quadruple, and deflection will increase by a factor of sixteen.
+linkings:
+span: Span (engineering) | True
+
+################################################################################
+title: Power of a point
+description: The power of a point is used in many geometrical definitions and proofs.
+linkings:
+point: Point (geometry) | False
+
+################################################################################
+title: Solid Edge
+description: Solid Edge is a 3D Computer-aided design, parametric feature (history based) and synchronous technology Solid modeling software.
+linkings:
+solid model: Solid modeling | True
+solid edge: Solid Edge | True
+
+################################################################################
+title: Transactional Synchronization Extensions
+description: In August 2014, Intel announced a bug in the TSX/TSX-NI implementation on current steppings of Haswell, Haswell-E, Haswell-EP and early Broadwell CPUs, which resulted in disabling the TSX/TSX-NI feature on affected CPUs via a Microcode update.
+linkings:
+microcode: Microcode | True
+tsx ni: Transactional Synchronization Extensions | True
+tsx: Transactional Synchronization Extensions | True
+
+################################################################################
+title: Document-oriented database
+description: Document databases store all information for a given object in a single instance in the database, and every stored object can be different from every other.
+linkings:
+document database: Document-oriented database | True
+object: Object (computer science) | True
+
+################################################################################
+title: PICT
+description: PICT allows the interchange of graphics (both Bitmapped and Vector graphics) , and some limited text support, between Mac applications, and was the native graphics format of QuickDraw.
+linkings:
+vector graphic: Vector graphics | True
+pict: PICT | True
+quick draw: QuickDraw | True
+
+################################################################################
+title: Ciphertext indistinguishability
+description: If any adversary can succeed in distinguishing the chosen ciphertext with a probability significantly greater than , then this adversary is considered to have an "advantage" in distinguishing the ciphertext, and the scheme is not considered secure in terms of indistinguishability.
+linkings:
+indistinguishability: Ciphertext indistinguishability | True
+adversary: Adversary (cryptography) | True
+ciphertext: Ciphertext-only attack | True
+
+################################################################################
+title: UTF-8
+description: UTF-8 is by far the most common encoding for World Wide Web, accounting for 97% of all web pages, and up to 100% for some languages, as of 2021.
+linkings:
+utf 8: UTF-8 | True
+encoding: Character encoding | True
+
+################################################################################
+title: Circumcision of Jesus
+description: The circumcision of Christ was initially seen only as a scene in larger cycles, but by the Renaissance might be treated as an individual subject for a painting, or form the main subject in an altarpiece.
+linkings:
+circumcision: Circumcision of Jesus | True
+
+################################################################################
+title: IEEE 802.1D
+description: Bridges using Virtual LAN (VLANs) have never been part of 802.1D, but were instead specified in separate standard, 802.1Q originally published in 1998.
+linkings:
+virtual lan: Virtual LAN | True
+
+################################################################################
+title: Constant-Q transform
+description: In mathematics and Signal processing, the constant-Q transform, simply known as CQT transforms a data series to the frequency domain.
+linkings:
+signal processing: Signal processing | True
+constant q transform: Constant-Q transform | True
+
+################################################################################
+title: Memory footprint
+description: Larger programs have larger memory footprints.
+linkings:
+memory footprint: Memory footprint | True
+
+################################################################################
+title: Virtual inheritance
+description: Virtual inheritance can help to solve this problem.
+linkings:
+virtual inheritance: Virtual inheritance | True
+
+################################################################################
+title: Komodo (chess)
+description: Komodo is consistently ranked near the top of most major chess engine rating lists, along with Stockfish (chess) and Leela Chess Zero.
+linkings:
+komodo: Komodo (chess) | True
+stockfish: Stockfish (chess) | True
+
+################################################################################
+title: Byte
+description: Modern architectures typically use 32- or 64-bit words, built of four or eight bytes.
+linkings:
+byte: Byte | True
+
+################################################################################
+title: Smart tag (Microsoft)
+description: Smart tags are an early Selection-based search feature, found in later versions of Microsoft Word and beta versions of Internet Explorer 6 Web browser, by which the application recognizes certain words or types of data and converts the application to a Hyperlink.
+linkings:
+smart tag: Smart tag (Microsoft) | True
+microsoft word: Microsoft Word | True
+
+################################################################################
+title: Button cell
+description: Most button cells have low self-discharge and hold most button cells charge for a long time if not used.
+linkings:
+button cell: Button cell | True
+
+################################################################################
+title: Power of a point
+description: In elementary plane geometry, the power of a point is a Real number h that reflects the relative distance of a given point from a given circle.
+linkings:
+distance: Euclidean distance | True
+circle: Circle | True
+point: Point (geometry) | True
+
+################################################################################
+title: IBM cloud computing
+description: IBM cloud computing is a set of Cloud computing services for business offered by the information technology company IBM.
+linkings:
+ibm cloud computing: IBM cloud computing | True
+cloud computing: IBM cloud computing | True
+
+################################################################################
+title: Language
+description: Language is processed in many different locations in the human brain, but especially in Broca's and Wernicke's areas.
+linkings:
+language: Language | True
+
+################################################################################
+title: Hyperparameter optimization
+description: These measures are called hyperparameters, and have to be tuned so that the model can optimally solve the machine learning problem.
+linkings:
+hyperparameter: Hyperparameter (machine learning) | True
+machine learning: Machine learning | True
+model: Mathematical model | True
+
+################################################################################
+title: Transmission delay
+description: A switch using store-and-forward transmission will receive (save) the entire packet to the buffer and check the entire packet to the buffer for CRC errors or other problems before sending the first bit of the packet into the outbound link.
+linkings:
+transmission: Retransmission (data networks) | True
+link: Telecommunications link | True
+bit: Bit rate | False
+
+################################################################################
+title: Allan variance
+description: A clock is most easily tested by comparing a clock with a far more accurate reference clock.
+linkings:
+clock: Clock signal | True
+
+################################################################################
+title: AutoRun
+description: AutoRun, a feature of Windows Explorer (actually of the shell32 dll) introduced in Windows 95, enables media and devices to launch programs by use of command listed in a file called , stored in Root directory of the medium.
+linkings:
+windows: Microsoft Windows | True
+root directory: Root directory | True
+auto run: AutoRun | True
+device: CONFIG.SYS | False
+feature: Software feature | True
+windows explorer: File Explorer | True
+command: Command (computing) | True
+
+################################################################################
+title: Linear density
+description: The term linear density is most often used when describing the characteristics of one-dimensional objects, although linear density can also be used to describe the density of a three-dimensional quantity along one particular dimension.
+linkings:
+linear density: Linear density | True
+
+################################################################################
+title: Hibernate (framework)
+description: Hibernate's primary feature is mapping from Java classes to Table (database) , and mapping from Java data types to SQL data types.
+linkings:
+table: Table (database) | True
+java: Java (programming language) | True
+sql: SQL | True
+hibernate: Hibernate (framework) | True
+
+################################################################################
+title: Cyrus IMAP server
+description: Cyrus IMAP server differs from other Internet Message Access Protocol (IMAP) server implementations in that Cyrus IMAP server is generally intended to be run on Sealed servers, where normal users cannot log in.
+linkings:
+imap: Internet Message Access Protocol | True
+internet message access protocol: Internet Message Access Protocol | True
+cyrus imap server: Cyrus IMAP server | True
+
+################################################################################
+title: DOS/360 and successors
+description: successors was announced by IBM on the last day of 1964, and DOS/360 and successors was first delivered in June 1966.
+linkings:
+dos / 360: DOS/360 and successors | True
+
+################################################################################
+title: Antimatroid
+description: Antimatroids can be viewed as a special case of greedoids and of semimodular lattices, and as a generalization of partial orders and of distributive lattices.
+linkings:
+antimatroid: Antimatroid | True
+
+################################################################################
+title: Equivalence partitioning
+description: An additional effect of applying this technique is that you also find the so-called "dirty" test cases.
+linkings:
+test case: Test case | True
+
+################################################################################
+title: Helix ALM
+description: Helix ALM, formerly called TestTrack, is Application lifecycle management (ALM) software developed by Perforce.
+linkings:
+test track: Helix ALM | True
+application lifecycle management: Application lifecycle management | True
+helix alm: Helix ALM | True
+
+################################################################################
+title: Austempering
+description: Austempering is defined by both the process and the resultant microstructure.
+linkings:
+austempering: Austempering | True
+
+################################################################################
+title: Stack trace
+description: Stack also refers to a programming construct, thus to differentiate a programming construct, Stack is referred to as the program's runtime stack.
+linkings:
+runtime stack: Call stack | True
+
+################################################################################
+title: Numerical Algorithms Group
+description: NAG serves NAG customers from offices in Oxford, Manchester, Chicago, and Tokyo, through staff in France and Germany, and via a global network of distributors.
+linkings:
+nag: Numerical Algorithms Group | True
+
+################################################################################
+title: A-Frame (virtual reality framework)
+description: A-Frame is an Open-source software Web framework for building virtual reality (VR) experiences.
+linkings:
+frame: A-Frame (virtual reality framework) | True
+web framework: Web framework | True
+open source software: Open-source software | True
+
+################################################################################
+title: Lattice graph
+description: This implies that the group of Bijections that send the graph to itself is a Lattice (group) in Group theory.
+linkings:
+graph: Graph (discrete mathematics) | False
+lattice: Lattice (group) | True
+
+################################################################################
+title: VAX
+description: VAX is a Complex instruction set computer Instruction set architecture (ISA) and line of superminicomputers and Workstations developed by the Digital Equipment Corporation (DEC) in the mid-1970s.
+linkings:
+instruction: Instruction set architecture | True
+complex instruction set computer: Complex instruction set computer | True
+isa: Instruction set architecture | True
+workstation: Workstation | True
+vax: VAX | True
+
+################################################################################
+title: Puredyne
+description: Development of puredyne was supported by the Arts Council England.
+linkings:
+puredyne: Puredyne | True
+
+################################################################################
+title: Compiler
+description: A language Rewriting is usually a program that translates the form of Expression (computer science) without a change of language.
+linkings:
+rewriting: Rewriting | True
+expression: Expression (computer science) | True
+program: Computer program | True
+
+################################################################################
+title: EasyPeasy
+description: EasyPeasy was built upon Debian and Ubuntu, but was customized for low-powered computers and access to Web applications.
+linkings:
+debian: Debian | True
+web application: Web application | True
+easy peasy: EasyPeasy | True
+
+################################################################################
+title: Meeting Maker
+description: Some support was introduced also for mobile platforms like Apple Newton, PalmPilot and Windows CE.
+linkings:
+apple newton: Apple Newton | True
+
+################################################################################
+title: Fifth power (algebra)
+description: The sequence of fifth powers of Integers is: 0, 1, 32, 243, 1024, 3125, 7776, 16807, 32768, 59049, 100000, 161051, 248832, 371293, 537824, 759375, 1048576, 1419857, 1889568, 2476099, 3200000, 4084101, 5153632, 6436343, 7962624, 9765625, ...
+linkings:
+fifth power: Fifth power (algebra) | True
+
+################################################################################
+title: Component Object Model
+description: COM is an interface technology defined and implemented as standard only on Microsoft Windows and Apple's Core Foundation 1.3 and later plug-in application programming interface (API) .
+linkings:
+com: Component Object Model | True
+microsoft windows: Microsoft Windows | True
+technology: MUMPS | False
+core foundation: Core Foundation | True
+
+################################################################################
+title: Burst noise
+description: Burst noise is modeled mathematically by means of the telegraph process, a Markovian continuous-time Stochastic process that jumps discontinuously between two distinct values.
+linkings:
+burst noise: Burst noise | True
+process: Stochastic process | True
+
+################################################################################
+title: Semigroup action
+description: An important special case is a monoid action or act, in which the semigroup is a monoid and Identity element of the monoid acts as the identity transformation of a set.
+linkings:
+monoid action: Semigroup action | True
+set: Semigroup action | False
+semigroup: Semigroup | True
+act: Semigroup action | True
+identity element: Identity element | True
+identity transformation: Identity function | True
+monoid act: Semigroup action | True
+
+################################################################################
+title: Heirloom Project
+description: The Heirloom Project is a collection of traditional Unix utilities.
+linkings:
+heirloom project: Heirloom Project | True
+
+################################################################################
+title: Findmypast
+description: As of 2018, Findmypast has partnered with many other genealogical organisations and hosts much of Findmypast data.
+linkings:
+findmypast: Findmypast | True
+
+################################################################################
+title: Apeirogon
+description: In some literature, the term "apeirogon" may refer only to the regular apeirogon, with an infinite dihedral group of Symmetry.
+linkings:
+regular apeirogon: Apeirogon | True
+
+################################################################################
+title: Microsoft Money
+description: Microsoft Money was designed for computers using Microsoft Windows Operating system, and versions for Windows Mobile were also available (available for Money 2000-2006 on select versions of Windows Mobile, up to, but not including, Windows Mobile 5.0) .
+linkings:
+windows mobile: Windows Mobile | True
+version: YouVersion | False
+microsoft money: Microsoft Money | True
+microsoft windows operating system: Microsoft Windows | True
+
+################################################################################
+title: Autonomic computing
+description: Initiated by IBM in 2001, this initiative ultimately aimed to develop computer systems capable of self-management, to overcome the rapidly growing complexity of computing Systems management, and to reduce the barrier that complexity poses to further growth.
+linkings:
+complexity: Complexity | True
+systems management: Systems management | True
+
+################################################################################
+title: Direct digital synthesis
+description: DDS is used in applications such as signal generation, local oscillators in communication systems, Function generators, mixers, modulators, Synthesizer and as part of a digital Phase-locked loop.
+linkings:
+dds: DirectDraw Surface | True
+function generator: Function generator | True
+phase lock loop: Phase-locked loop | True
+
+################################################################################
+title: Imake
+description: Imake was used by X from X11R1 (1987) to X11R6.9 (2005) , and continued to be used in XFree86 (last commit 2009) .
+linkings:
+imake: Imake | True
+x 11: X Window System | True
+x 11 r6: X Window System | True
+
+################################################################################
+title: Freedesktop.org
+description: freedesktop.org was formerly known as the X Desktop Group, and the abbreviation "XDG" remains common in their work.
+linkings:
+x desktop group: Freedesktop.org | True
+
+################################################################################
+title: Phasor (sound synthesizer)
+description: Consisting of a sound card and a set of related software, Phasor system was designed to be compatible with most software written for other contemporary Apple II cards, including the Sweet Micro Systems Mockingboard, ALF's Apple Music Synthesizer, Echo+ and Applied Engineering's earlier card Super Music Synthesizer.
+linkings:
+phasor: Phasor (sound synthesizer) | True
+
+################################################################################
+title: Data manipulation language
+description: A popular data manipulation language is that of Structured Query Language (SQL) , which is used to retrieve and manipulate Data in a Relational database.
+linkings:
+structured query language: SQL | True
+relational database: Relational database | True
+data manipulation language: Data manipulation language | True
+
+################################################################################
+title: CD+G
+description: CD+G (also known as CD-G, CD+Graphics and TV-Graphics) is an extension of Compact Disc Digital Audio standard that can present low-resolution graphics alongside the audio data on the disc when played on a compatible device.
+linkings:
+compact disc digital audio: Compact Disc Digital Audio | True
+cd + g: CD+G | True
+disc: Optical disc recording modes | True
+cd g: CD+G | True
+cd + graphics: CD+G | True
+
+################################################################################
+title: Morse code
+description: International Morse Code, also known as Continental Morse Code, encodes the 26 English letters A through Z, some non-English letters, Arabic numerals and a small set of punctuation and procedural signals (prosigns) .
+linkings:
+morse code: Morse code | True
+international morse code: Morse code | True
+
+################################################################################
+title: CANopen
+description: In terms of OSI model, CANopen implements the layers above and including Network layer.
+linkings:
+ca nopen: CANopen | True
+network layer: Network layer | True
+osi model: OSI model | True
+
+################################################################################
+title: CMD RAMLink
+description: CMD RAMLink was intended as a third-party alternative, successor and optionally companion to Commodore's own Commodore REU RAM expansion cartridges.
+linkings:
+cmd ram link: CMD RAMLink | True
+commodore reu: Commodore REU | True
+commodore: Commodore International | True
+
+################################################################################
+title: Usability
+description: For example, a screwdriver typically has a handle with rounded edges and a grippable surface, to make it easier for the user to hold the handle and twist it to drive a screw.
+linkings:
+handle: Handle (computing) | True
+
+################################################################################
+title: R (programming language)
+description: Although R has a command line interface, there are several third-party Graphical user interfaces, such as RStudio, an Integrated development environment, and Jupyter, a Notebook interface.
+linkings:
+notebook interface: Notebook interface | True
+
+################################################################################
+title: Selection algorithm
+description: In fact, a specialized median-selection algorithm can be used to build a general selection algorithm, as in Median of medians.
+linkings:
+selection algorithm: Selection algorithm | True
+
+################################################################################
+title: Zip drive
+description: The format became the most popular of the superfloppy products which filled a niche in the late 1990s portable storage market.
+linkings:
+format: Format (command) | True
+
+################################################################################
+title: Loop-level parallelism
+description: The opportunity for loop-level parallelism often arises in computing programs where data is stored in Random access data structures.
+linkings:
+loop level parallelism: Loop-level parallelism | True
+data structure: Data structure | True
+random access: Random access | True
+
+################################################################################
+title: Cheque
+description: Although forms of cheques have been in use since ancient times and at least since the 9th century, it was during the 20th century that cheques became a highly popular non-cash method for making Payments and the usage of cheques peaked.
+linkings:
+payments: Payment | True
+cheque: Cheque | True
+
+################################################################################
+title: OpenEHR
+description: The openEHR specifications are maintained by the openEHR Foundation, a not for profit foundation supporting the open research, development, and implementation of openEHR EHRs.
+linkings:
+openehr: OpenEHR | True
+specification: Formal specification | False
+open ehr: OpenEHR | True
+
+################################################################################
+title: YIQ
+description: In YUV, the U and V components can be thought of as X and Y coordinates within the color space.
+linkings:
+yuv: YUV | True
+
+################################################################################
+title: Tuple
+description: Mathematicians usually write tuples by listing the elements within parentheses "" and separated by commas; for example, denotes a 5-tuple.
+linkings:
+element: Element (mathematics) | True
+tuple: Tuple | True
+
+################################################################################
+title: Iptables
+description: The term iptables is also commonly used to inclusively refer to the kernel-level components.
+linkings:
+kernel: Linux kernel | True
+
+################################################################################
+title: Rate–distortion optimization
+description: The name refers to the optimization of the amount of distortion (loss of video quality) against the amount of data required to encode the video, the rate.
+linkings:
+video quality: Video quality | True
+
+################################################################################
+title: Entry point
+description: (During Booting, the operating system itself is the program) .
+linkings:
+operating system: Operating system | True
+
+################################################################################
+title: LeEco
+description: From late 2016 onward, LeEco has been experiencing financial limitations due to aggressive strategic expansion and difficulties in acquiring new funds.
+linkings:
+le eco: LeEco | True
+
+################################################################################
+title: 2–3–4 tree
+description: One property of a 2–3–4 tree is that all external nodes are at the same depth.
+linkings:
+external node: Tree (data structure) | True
+
+################################################################################
+title: Asterisk (PBX)
+description: Asterisk is a Software implementation of a private branch exchange (PBX) .
+linkings:
+asterisk: Asterisk (PBX) | True
+
+################################################################################
+title: Time series
+description: Time series analysis comprises methods for analyzing time series data in order to extract meaningful statistics and other characteristics of the data.
+linkings:
+datum: Data | True
+
+################################################################################
+title: Comparison of assemblers
+description: Some assemblers are hosted on the target processor and operating system, while other assemblers (cross-assemblers) may run under an unrelated operating system or processor.
+linkings:
+processor: Processor (computing) | True
+assembler: Assembly language | False
+
+################################################################################
+title: Berkeley printing system
+description: A system running this print architecture could traditionally be identified by the use of the user command lpr as the primary interface to the print system, as opposed to System V printing system lp command.
+linkings:
+system v printing system: System V printing system | True
+command: More (command) | False
+lp: System V printing system | True
+
+################################################################################
+title: Interrupter
+description: Frequently, the interrupter is used in conjunction with an inductor (coil of wire) to produce increased voltages either by a back emf effect or through transformer action.
+linkings:
+interrupter: Interrupter | True
+
+################################################################################
+title: Critical point (mathematics)
+description: The notion of a critical point allows the mathematical description of an astronomical phenomenon that was unexplained before the time of Copernicus.
+linkings:
+critical point: Critical point (mathematics) | True
+
+################################################################################
+title: Google Web Light
+description: Google Web Light can speed up loading times for text-based websites.
+linkings:
+google web light: Google Web Light | True
+
+################################################################################
+title: Webcam
+description: As video streaming over the Internet requires much Bandwidth (computing) , such streams usually use compressed formats.
+linkings:
+internet: Internet | True
+
+################################################################################
+title: ICO (file format)
+description: In Windows, all Executables that display an icon to the user, on the desktop, in the Start Menu, or in Windows Explorer, must carry the icon in ICO format.
+linkings:
+ico format: ICO (file format) | True
+start menu: Start menu | True
+
+################################################################################
+title: Exponent bias
+description: To calculate the bias for an arbitrarily sized floating-point number apply the formula 2−1 where k is the number of bits in the exponent.
+linkings:
+floating point number: Floating-point arithmetic | True
+
+################################################################################
+title: Random permutation statistics
+description: The amount of disorder that remains may be analysed with generating functions.
+linkings:
+function: Function object | False
+
+################################################################################
+title: Objective-J
+description: Pure JavaScript, being a Prototype-based programming-based language, already has a notion of object orientation and inheritance, but Objective-J adds the use of Class-based programming to JavaScript.
+linkings:
+java script: JavaScript | True
+objective j: Objective-J | True
+
+################################################################################
+title: High bit rate digital subscriber line 2
+description: On an AWG26 local loop, the reach of HDSL2 is , while that of HDSL4 is .
+linkings:
+hdsl 4: High bit rate digital subscriber line 2 | True
+hdsl 2: High bit rate digital subscriber line 2 | True
+
+################################################################################
+title: Mellel
+description: Mellel has a distinctive way of handling footnotes and endnotes, allowing creation of numerous "streams" of notes in a single document.
+linkings:
+document: My Documents | False
+mellel: Mellel | True
+
+################################################################################
+title: CD-i Ready
+description: The CD-i Ready format uses a particular technique to get audio CD players to skip over the CD-i software and data.
+linkings:
+format: Format (command) | False
+cd i ready: CD-i Ready | True
+cd: Compact disc | True
+
+################################################################################
+title: Mobile security
+description: Of particular concern is Information security of personal and business information now stored on smartphones.
+linkings:
+information security: Information security | True
+
+################################################################################
+title: Fiber to the x
+description: Fiber to the x (FTTX; also spelled "Fibre") or fiber in the loop is a generic term for any Broadband network architecture using Optical fiber to provide all or part of Local loop used for last mile telecommunications.
+linkings:
+fttx: Fiber to the x | True
+broadband: Broadband | True
+optical fiber: Optical fiber | True
+local loop: Local loop | True
+
+################################################################################
+title: Data exploration
+description: Data exploration is typically conducted using a combination of automated and manual activities.
+linkings:
+activity: Activity diagram | True
+
+################################################################################
+title: Repdigit
+description: All repdigits are Palindromic numbers and are multiples of Repunits.
+linkings:
+palindromic number: Palindromic number | True
+repdigit: Repdigit | True
+
+################################################################################
+title: Plane (geometry)
+description: A plane is the two-dimensional analogue of a Point (geometry) (zero dimensions) , a Line (geometry) (one dimension) and Three-dimensional space.
+linkings:
+plane: Plane (geometry) | True
+line: Line (geometry) | True
+two dimensional: Plane (geometry) | True
+point: Point (geometry) | True
+three dimensional space: Three-dimensional space | True
+
+################################################################################
+title: Leader election
+description: Leader election algorithms are designed to be economical in terms of total Bytes transmitted, and time.
+linkings:
+leader election algorithm: Leader election | True
+
+################################################################################
+title: GRASS (programming language)
+description: This version was known as ZGrass.
+linkings:
+grass: GRASS (programming language) | True
+
+################################################################################
+title: DOS/360 and successors
+description: In its time, DOS/360 was the most widely used operating system in the world.
+linkings:
+dos / 360: DOS/360 and successors | True
+operating system: Operating system | True
+
+################################################################################
+title: SUNMOS
+description: Additionally, the overhead of OSF/1 limited the network bandwidth to 35 MB/s, while SUNMOS was able to use 170 MB/s of the peak 200 MB/s available.
+linkings:
+sunmos: SUNMOS | True
+osf / 1: OSF/1 | True
+
+################################################################################
+title: Epigraph (mathematics)
+description: A function (in black) is convex if and only if the region above a function (in black) graph (in green) is a convex set.
+linkings:
+region: Region (mathematics) | True
+function: Function (mathematics) | True
+
+################################################################################
+title: Tesseract (software)
+description: In 2006, Tesseract was considered one of the most accurate open-source OCR engines then available.
+linkings:
+engine: Engine (computer science) | False
+tesseract: Tesseract (software) | True
+
+################################################################################
+title: European Middleware Initiative
+description: The European Middleware Initiative (EMI) is a computer software platform for high performance Distributed computing.
+linkings:
+european middleware initiative: European Middleware Initiative | True
+
+################################################################################
+title: High color
+description: More recently, the term high color has been used by Microsoft to identify display systems that can make use of more than 8-bits per color channel (10:10:10:2 or 16:16:16:16 rendering formats) from traditional 8-bit per color channel formats.
+linkings:
+high color: High color | True
+
+################################################################################
+title: White noise
+description: Depending on the context, one may also require that the samples be independent and have identical Probability distribution (in other words independent and identically distributed random variables are the simplest representation of white noise) .
+linkings:
+white noise: White noise | True
+random variable: Random variable | True
+probability distribution: Probability distribution | True
+
+################################################################################
+title: End-user license agreement
+description: End-user license agreements are usually lengthy, and written in highly specific legal language, making it difficult for the average user to give informed consent.
+linkings:
+end user license agreement: End-user license agreement | True
+
+################################################################################
+title: CueCat
+description: The company asserted that the ability of the device to direct users to a specific URL, rather than a domain name, was valuable.
+linkings:
+url: URL | True
+
+################################################################################
+title: Null-terminated string
+description: (linear time) with respect to the string length also means that a string cannot contain a NUL (there is a NUL in memory, but it is after the last character, not "in" the string) .
+linkings:
+nul: Null character | True
+
+################################################################################
+title: Logical reasoning
+description: Within the context of a Mathematical model, these three kinds of reasoning can be described as follows.
+linkings:
+mathematical model: Mathematical model | True
+
+################################################################################
+title: Udev
+description: As the successor of Devfsd and hotplug, udev primarily manages device nodes in the /dev directory.
+linkings:
+udev: Udev | True
+
+################################################################################
+title: Slide rule
+description: Slide rule is used primarily for Multiplication and Division (mathematics) , and also for functions such as exponents, roots, Logarithms, and Trigonometry, but typically not for addition or subtraction.
+linkings:
+logarithms: Logarithm | True
+slide rule: Slide rule | True
+
+################################################################################
+title: Error floor
+description: Error floors are usually attributed to low-weight codewords (in the case of Turbo codes) and trapping sets or near-codewords (in the case of LDPC codes) .
+linkings:
+ldpc code: Low-density parity-check code | True
+error floor: Error floor | True
+
+################################################################################
+title: Sampling (statistics)
+description: Results from Probability theory and statistical theory are employed to guide the practice.
+linkings:
+probability theory: Probability theory | True
+
+################################################################################
+title: AForge.NET
+description: NET was created to extend the features of the original AForge.
+linkings:
+net: .NET Framework | True
+
+################################################################################
+title: Priority queue
+description: While priority queues are often implemented with Heap (data structure) , priority queues are conceptually distinct from heaps.
+linkings:
+heap: Heap (data structure) | True
+priority queue: Priority queue | True
+
+################################################################################
+title: PLATO (computer system)
+description: CDC President William Norris planned to make PLATO a force in the computer world, but found that marketing the system was not as easy as hoped.
+linkings:
+plato: PLATO (computer system) | True
+
+################################################################################
+title: Midgard (software)
+description: Midgard can also be used with PHPCR, the PHP implementation of Content repository API for Java standard.
+linkings:
+midgard: Midgard (software) | True
+
+################################################################################
+title: CANopen
+description: The communication protocols have support for network management, device monitoring and communication between nodes, including a simple Transport layer for message segmentation/desegmentation.
+linkings:
+transport layer: Transport layer | True
+communication protocol: Communication protocol | True
+
+################################################################################
+title: Learning rule
+description: A learning rule may accept existing conditions (weights and biases) of the network and will compare the expected result and actual result of the network to give new and improved values for weights and bias.
+linkings:
+learning rule: Learning rule | True
+
+################################################################################
+title: Library (computing)
+description: In this case the library is called a dynamic library (loaded at Runtime (program lifecycle phase) ) .
+linkings:
+library: Library (computing) | True
+
+################################################################################
+title: Background debug mode interface
+description: Background debug mode interface requires a single wire and specialized electronics in the system being debugged.
+linkings:
+background debug mode interface: Background debug mode interface | True
+
+################################################################################
+title: Siag Office
+description: Siag Office is a tightly integrated Free software office package for Unix-like operating systems.
+linkings:
+free software: Free software | True
+siag office: Siag Office | True
+
+################################################################################
+title: WebSphere Portal
+description: WebSphere Portal provides access to web content and applications, while delivering personalized experiences for users.
+linkings:
+web sphere portal: WebSphere Portal | True
+
+################################################################################
+title: WeBWorK
+description: WeBWorK allows students to complete students homework over the web, and receive instantaneous feedback as to the correctness of students responses.
+linkings:
+b wor k: WeBWorK | True
+
+################################################################################
+title: Enterprise software
+description: Enterprise software, also known as enterprise application software (EAS) , is computer software used to satisfy the needs of an organization rather than individual users.
+linkings:
+enterprise software: Enterprise software | True
+enterprise: Enterprise software | True
+
+################################################################################
+title: Locale (computer software)
+description: On POSIX platforms such as Unix, Linux and others, locale identifiers are defined by ISO/IEC 15897, which is similar to the BCP 47 definition of language tags, but the locale variant modifier is defined differently, and the character set is included as a part of the identifier.
+linkings:
+posix: POSIX | True
+locale: Locale (computer software) | True
+
+################################################################################
+title: Teleprinter
+description: Teleprinters have largely been replaced by fully electronic Computer terminals which typically have a Computer monitor instead of a printer (though the term "TTY" is still occasionally used to refer to them, such as in Unix systems) .
+linkings:
+computer terminal: Computer terminal | True
+
+################################################################################
+title: Pornography
+description: Pornography may be presented in a variety of media, including magazines, Animation, writing, film, video, and video games.
+linkings:
+pornography: Pornography | True
+
+################################################################################
+title: Nanex
+description: Nanex is the creator and developer of NxCore, a ticker plant that delivers streaming whole market data from Telvent DTN and provides an application programming interface.
+linkings:
+nanex: Nanex | True
+
+################################################################################
+title: AsciiMath
+description: ASCIIMathML.js has been integrated into MathJax, starting with MathJax v2.0.
+linkings:
+math jax: MathJax | True
+
+################################################################################
+title: Ignition SCADA
+description: Ignition is an Integrated Software Platform for SCADA systems released by Inductive Automation in January 2010.
+linkings:
+scada: SCADA | True
+ignition: Ignition SCADA | True
+
+################################################################################
+title: Think aloud protocol
+description: The method was developed based on the techniques of protocol analysis by K. Ericsson and H. Simon.
+linkings:
+method: Software development process | False
+
+################################################################################
+title: Video RAM (dual-ported DRAM)
+description: Through the 1990s, many graphic subsystems used VRAM, with the number of megabits touted as a selling point.
+linkings:
+vram: Video RAM (dual-ported DRAM) | True
+
+################################################################################
+title: Digital forensics
+description: Civil cases on the other hand deal with protecting the rights and property of individuals (often associated with family disputes) but may also be concerned with contractual disputes between commercial entities where a form of digital forensics referred to as Electronic discovery (ediscovery) may be involved.
+linkings:
+ediscovery: Electronic discovery | True
+electronic discovery: Electronic discovery | True
+
+################################################################################
+title: Multidimensional signal processing
+description: Processing in multi-dimension (m-D) requires more complex algorithms, compared to the 1-D case, to handle calculations such as Fast Fourier transform due to more degrees of freedom.
+linkings:
+fast fourier transform: Fast Fourier transform | True
+dimension: Dimension (data warehouse) | False
+
+################################################################################
+title: Two-out-of-five code
+description: All Constant-weight codes, including the two-out-of-five code, can not only detect any single-bit error, but also detect any unidirectional errors -- any case where all errors in a codeword are of a single type (0→1 or 1→0) .
+linkings:
+constant weight code: Constant-weight code | True
+two out of five code: Two-out-of-five code | True
+
+################################################################################
+title: Asymptotically optimal algorithm
+description: It is too complex, so that the difficulty of comprehending and implementing it correctly outweighs it potential benefit in the range of input sizes under consideration.
+linkings:
+input size: Computational complexity theory | False
+range: Range (computer programming) | True
+
+################################################################################
+title: Public key fingerprint
+description: In Public-key cryptography, a public key fingerprint is a short sequence of Byte used to identify a longer public key.
+linkings:
+public key fingerprint: Public key fingerprint | True
+public key: Public-key cryptography | True
+public key cryptography: Public-key cryptography | True
+
+################################################################################
+title: Family Bible (book)
+description: A family Bible is a Bible handed down through a family, with each successive generation recording information about the family's history inside it.
+linkings:
+family bible: Family Bible (book) | True
+
+################################################################################
+title: PL/SQL
+description: PL/SQL includes procedural language elements such as conditions and loops.
+linkings:
+pl / sql: PL/SQL | True
+procedural language: Procedural programming | True
+
+################################################################################
+title: Atomic commit
+description: If the changes are applied, then Atomic commit is said to have succeeded.
+linkings:
+atomic commit: Atomic commit | True
+change: Changeset | True
+
+################################################################################
+title: L (complexity)
+description: Logarithmic space is sufficient to hold a constant number of Pointer (computer programming) s into the input and a logarithmic number of boolean flags, and many basic logspace algorithms use the memory in this way.
+linkings:
+logspace: L (complexity) | True
+logarithmic space: L (complexity) | True
+input: Input (computer science) | True
+pointer: Pointer (computer programming) | True
+
+################################################################################
+title: Accessibility
+description: Accessibility is not to be confused with Usability, which is the extent to which a product (such as a device, service, or environment) can be used by specified users to achieve specified goals with effectiveness, efficiency, convenience satisfaction in a specified context of use.
+linkings:
+service: As a service | True
+accessibility: Accessibility | True
+
+################################################################################
+title: Pulse (signal processing)
+description: A pulse in Signal processing is a rapid, transient change in the amplitude of a signal from a baseline value to a higher or lower value, followed by a rapid return to the baseline value.
+linkings:
+signal processing: Signal processing | True
+
+################################################################################
+title: Sylpheed
+description: Sylpheed is an Open-source software e-mail client and news client licensed under GNU General Public License.
+linkings:
+e mail client: Email client | True
+open source software: Open-source software | True
+gnu general public license: GNU General Public License | True
+sylpheed: Sylpheed | True
+
+################################################################################
+title: Autonomous system (mathematics)
+description: In Mathematics, an autonomous system or autonomous differential equation is a system of ordinary differential equations which does not explicitly depend on the independent variable.
+linkings:
+autonomous differential equation: Autonomous system (mathematics) | True
+variable: Variable (mathematics) | True
+autonomous system: Autonomous system (mathematics) | True
+
+################################################################################
+title: Nyquist stability criterion
+description: In contrast to Bode plots, Nyquist stability criterion can handle Transfer functions with right half-plane singularities.
+linkings:
+nyquist stability criterion: Nyquist stability criterion | True
+transfer function: Transfer function | True
+
+################################################################################
+title: Chakra (JScript engine)
+description: Microsoft has developed a different JavaScript engine based on the JScript, for the newer Microsoft Edge browser (also called Chakra (JavaScript engine) ) .
+linkings:
+java script engine: JavaScript engine | True
+edge browser: Microsoft Edge | True
+chakra: Chakra (JScript engine) | True
+
+################################################################################
+title: MoinMoin
+description: Moinmoin 2.0, based on Python 3.5, is not yet released (as of Aug. 2019) , and "development is very slow going," according to their Python3 support page.
+linkings:
+moinmoin: MoinMoin | True
+
+################################################################################
+title: Polygon covering
+description: There are many different polygon covering problems, depending on the type of polygon being covering.
+linkings:
+polygon: Polygon | True
+
+################################################################################
+title: Spamdexing
+description: Using unethical methods to make websites rank higher in search engine results than websites otherwise would is commonly referred to in the SEO (search engine optimization) industry as "black-hat SEO".
+linkings:
+seo: Search engine optimization | True
+search engine: Spamdexing | True
+
+################################################################################
+title: Infinitesimal
+description: Infinitesimals regained popularity in the 20th century with Abraham Robinson's development of Nonstandard analysis and the hyperreal numbers, which showed that a formal treatment of infinitesimal calculus was possible, after a long controversy on this topic by centuries of mathematics.
+linkings:
+infinitesimal calculus: Calculus | True
+nonstandard analysis: Nonstandard analysis | True
+infinitesimal: Infinitesimal | True
+hyperreal number: Hyperreal number | True
+
+################################################################################
+title: Knowledge integration
+description: Knowledge integration has also been studied as the process of incorporating new information into a body of existing knowledge with an interdisciplinary approach.
+linkings:
+process: Business process modeling | False
+knowledge integration: Knowledge integration | True
+
+################################################################################
+title: OpenJ9
+description: OpenJ9 can be built from source, or can be used with prebuilt binaries available at the AdoptOpenJDK project for a number of platforms including Linux and Windows.
+linkings:
+open j 9: OpenJ9 | True
+
+################################################################################
+title: MPack (software)
+description: The developers also charge to make the scripts and executables undetectable by Antivirus software.
+linkings:
+script: NoScript | False
+antivirus software: Antivirus software | True
+
+################################################################################
+title: Android application package
+description: Although one can downgrade an app this way by uninstalling the new version first, doing the new version via Android Debug Bridge is better as the new version allows for keeping data.
+linkings:
+android debug bridge: Android software development | True
+
+################################################################################
+title: White space (visual arts)
+description: Inexpert use of white space, however, can make a page appear incomplete.
+linkings:
+page: Pagination | True
+white space: White space (visual arts) | True
+
+################################################################################
+title: Bound variable pronoun
+description: In Linguistics, the occurrence of bound variable pronouns is important for the study of Syntax and Semantics of pronouns.
+linkings:
+bound variable pronoun: Bound variable pronoun | True
+semantics: Semantics | True
+syntax: Syntax | True
+
+################################################################################
+title: Universal Numbering System
+description: FDI World Dental Federation notation is used.
+linkings:
+fdi world dental federation notation: FDI World Dental Federation notation | True
+
+################################################################################
+title: Espy Sans
+description: Before the release of the Charcoal font used for Mac OS 8 and 9, Espy Sans was a popular replacement system font for reskinnings of Mac OS 7.x, being included in system extensions such as Greg Landweber's Aaron extension.
+linkings:
+espy sans: Espy Sans | True
+mac os: Classic Mac OS | True
+
+################################################################################
+title: LLDB (debugger)
+description: The LLDB Debugger (LLDB) is Debugger component of LLVM project.
+linkings:
+llvm: LLVM | True
+lldb: LLDB (debugger) | True
+component: Component-based software engineering | False
+
